@@ -1,0 +1,21 @@
+foglio,campo,descrizione,formato,esempio
+trasmissioni,trasmissione,bla bla bla,Testo,Dritto e Rovescio
+trasmissioni,rete,,Testo,Mediaset
+trasmissioni,canale,,Testo,Rete 4
+trasmissioni,numero,,Numero,4
+puntate,id_puntata,,Testo,M4-20190307
+puntate,trasmissione,,,Dritto e Rovescio
+puntate,data,,,2019-03-07
+puntate,durata_puntata,,,2:53:19
+ospiti,nome,,,Pietro
+ospiti,cognome,,,Senaldi
+ospiti,titolo,,,Giornalista
+ospiti,appartenenza,,,Libero
+interventi,id_puntata,,,R3-20190305
+interventi,tipologia,,,Intervista singola
+interventi,UE,,,TRUE
+interventi,ospite,,,Noto
+interventi,keyword,,,intenzioni voto ue
+interventi,start,,,1:16:05
+interventi,end,,,1:17:28
+interventi,sentiment,,,Neutro
