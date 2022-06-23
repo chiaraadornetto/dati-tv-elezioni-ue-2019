@@ -18,7 +18,7 @@ root
 ## Data Structure
 I seguenti file sono stati descritti rispettando gli standard di frictinless data nel file datapackage.yaml
 
-### trasmissioni.csv
+### 📄 [trasmissioni.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/trasmissioni.csv)
 
 - Path: `data/`
 - Delimiter: `,`
@@ -31,7 +31,7 @@ rete | Denominazione della rete televisiva | String | Mediaset
 canale | Denominazione del canale televisivo | String | Rete 4
 numero | Numerazione LCN nazionale dei canali TV | Number | 4
 
-### puntate.csv
+### 📄 [puntate.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/puntate.csv)
 
 - Path: `data/`
 - Delimiter: `,`
@@ -43,7 +43,7 @@ trasmissione | Denominazione della trasmissione | String | Dritto e Rovescio
 data | Data della messa in onda della puntata | Date | 2019-03-07
 durata_puntata | Durata della puntata | String | 2:53:19
 
-### ospiti.csv
+### 📄 [ospiti.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/ospiti.csv)
 
 - Path: `data/`
 - Delimiter: `,`
@@ -55,7 +55,7 @@ cognome | Cognome | String | Senaldi
 titolo | Professione o attività svolta | String | Giornalista
 appartenenza | Testa giornalistica o Partito politico di appartenenza | String | Libero
 
-### interventi.csv
+### 📄 [interventi.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/interventi.csv)
 
 - Path: `data/`
 - Delimiter: `,`
