@@ -1,0 +1,99 @@
+# --------
+# metadata: data/interventi.csv data/ospiti.csv data/puntate.csv data/trasmissioni.csv
+# --------
+
+name: TBD
+title: TBD
+description: TBD
+contributors:
+  - title: Chiara Adornetto
+    email: chiara.adornetto@tiscali.it
+    role: author
+  - title: Dennis Angemi
+    email: dennisangemi@gmail.com
+    role: maintainer
+licenses:
+  - name: CC-BY-4.0
+    title: Creative Commons Attribution 4.0
+    path: https://creativecommons.org/licenses/by/4.0/
+resources:
+  - path: data/interventi.csv
+    name: interventi
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - type: string
+          name: id_puntata
+        - type: string
+          name: tipologia
+        - type: boolean
+          name: UE
+        - type: string
+          name: ospite
+        - type: string
+          name: keyword
+        - type: string
+          name: start
+        - type: string
+          name: end
+        - type: string
+          name: sentiment
+        - type: string
+          name: durata_temp
+  - path: data/ospiti.csv
+    name: ospiti
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - type: string
+          name: nome
+        - type: string
+          name: cognome
+        - type: string
+          name: titolo
+        - type: string
+          name: appartenenza
+  - path: data/puntate.csv
+    name: puntate
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - type: string
+          name: id_puntata
+        - type: string
+          name: trasmissione
+        - type: date
+          name: data
+        - type: string
+          name: durata_puntata
+  - path: data/trasmissioni.csv
+    name: trasmissioni
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - type: string
+          name: trasmissione
+        - type: string
+          name: rete
+        - type: string
+          name: canale
+        - type: integer
+          name: numero
+profile: data-package
+
