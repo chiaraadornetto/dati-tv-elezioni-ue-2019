@@ -1,217 +1,217 @@
-id_puntata,tipologia,UE,ospite,keyword,start,end,sentiment,durata_temp
-R3-20190305,Dibattito,FALSE,"Mieli, Bersani","conflitto politico e governativo, sicurezza e giustizia, legittima difesa, cittadinanza",0:42:00,1:16:04,,0:34:04
-R3-20190305,Intervista singola,TRUE,Noto,intenzioni voto ue,1:16:05,1:17:28,Neutro,0:01:23
-R3-20190305,Dibattito,FALSE,"Manlio Di Stefano, De Magistris","sicurezza e giustizia, legittima difesa, infrastrutture, TAV, occupazioni",1:17:28,1:43:08,,0:25:40
-R3-20190305,Intervista singola,FALSE,Ayane,immigrazione,1:43:10,1:49:30,,0:06:20
-R3-20190305,Dibattito,FALSE,"Borghi, Cappellini, Nardella, Belpietro","infrastrutture, TAV, sicurezza e giustizia, legittima difesa, economia e finanza, lavoro e disoccupazione",1:49:31,2:30:02,,0:40:31
-R3-20190312,Dibattito,FALSE,"Corona, Tozzi","infrastrutture, TAV, clima e ambiente",0:29:20,0:43:21,,0:14:01
-R3-20190312,Dibattito,FALSE,"Sgarbi, Cazzola, Tozzi, Giuli","infrastrutture, TAV, clima e ambiente, conflitto politico e governativo",0:50:15,1:20:00,,0:29:45
-R3-20190312,Dibattito,TRUE,"Sgarbi, Cazzola, Tozzi, Giuli",elezioni ue e stabilità governativa,1:18:16,1:19:00,Neutro,0:00:44
-R3-20190312,Dibattito,FALSE,"Borgonzoni, Moretti","sicurezza e giustizia, occupazioni, clima e ambiente, infrastrutture, TAV, sanità",1:22:46,1:50:55,,0:28:09
-R3-20190312,Intervista singola,TRUE,Noto,intenzioni voto ue,1:51:40,1:53:08,Neutro,0:01:28
-R3-20190312,Dibattito,FALSE,"Giordano, Friedman, Costamagna, Furfaro","sicurezza e giustizia, legittima difesa, occupazioni, immigrazione",1:53:10,2:29:40,,0:36:30
-R3-20190319,Intervista singola,FALSE,Corona,immigrazione,0:05:00,0:27:10,,0:22:10
-R3-20190319,Intervista singola,FALSE,Zingaretti,"immigrazione, conflitto politico e governativo",0:48:55,1:18:19,,0:29:24
-R3-20190319,Intervista singola,TRUE,Zingaretti,"schieramenti PE, proposte ue",1:00:19,1:05:26,Positivo,0:05:07
-R3-20190319,Dibattito,FALSE,"Cacciari, Mieli, Belpietro","immigrazione, diritti umani",1:19:56,1:57:30,,0:37:34
-R3-20190319,Dibattito,TRUE,Cacciari,politica di immigrazione comunitaria,1:51:21,1:52:58,Negativo,0:01:37
-R3-20190319,Dibattito,FALSE,"Vergassola, De Masi, Mughini, Gasparri, Scanzi","sicurezza e giustizia, economia e finanza, lavoro e disoccupazione, occupazioni, conflitto politico e governativo",1:57:31,2:34:37,,0:37:06
-R3-20190319,Dibattito,TRUE,"Vergassola, De Masi, Mughini, Gasparri, Scanzi",elezioni ue e stabilità governativa,2:17:20,2:18:31,Neutro,0:01:11
-R3-20190326,Intervista singola,FALSE,Corona,"conflitto politico e governativo, razzismo, cittadinanza",0:05:00,0:27:43,,0:22:43
-R3-20190326,Intervista singola,FALSE,Buffagni,"conflitto politico e governativo, cittadinanza, scandali, clima e ambiente",0:41:54,1:11:52,,0:29:58
-R3-20190326,Intervista singola,FALSE,Casarini,immigrazione,1:13:20,1:21:54,,0:08:34
-R3-20190326,Dibattito,FALSE,"Fortunato, Scanzi, Giordano",immigrazione,1:23:43,1:50:14,,0:26:31
-R3-20190326,Dibattito,TRUE,"Fortunato, Scanzi, Giordano",politica di immigrazione comunitaria,1:47:21,1:50:14,Negativo,0:02:53
-R3-20190326,Intervista singola,FALSE,Vanoni,"razzismo, diritti civili, immigrazione, cittadinanza",1:50:52,2:08:18,,0:17:26
-R3-20190326,Dibattito,FALSE,"Barbano, Scanzi, Borghi, Cipriani","economia e finanza, tasse, lavoro e disoccupazione",2:08:20,2:31:59,,0:23:39
-R3-20190402,Intervista singola,FALSE,Corona,"diritti civili, famiglia, economia e finanza, clima e ambiente",0:13:41,0:43:10,,0:29:29
-R3-20190402,Dibattito,FALSE,"Cirinnà, Gardini, Scanzi, Belpietro","libertà, diritti civili, famiglia",0:43:10,1:19:30,,0:36:20
-R3-20190402,Dibattito,FALSE,"Cirinnà, Giuli, Conte, Scanzi","occupazioni, sicurezza e giustizia, legittima difesa",1:19:32,1:54:08,,0:34:36
-R3-20190402,Dibattito,TRUE,Giuli,normative ue,1:26:00,1:27:53,Negativo,0:01:53
-R3-20190402,Dibattito,FALSE,"Mutti, Borghi, Toti, Cappellini","economia e finanza, lavoro e disoccupazione, pensioni",1:57:00,2:30:11,,0:33:11
-R3-20190402,Dibattito,TRUE,Borghi,"politica economica e commerciale ue, fondi ue",1:57:28,1:58:32,Negativo,0:01:04
-R3-20190402,Dibattito,TRUE,Borghi,,1:59:47,2:00:24,Negativo,0:00:37
-R3-20190402,Dibattito,TRUE,Borghi,,2:03:41,2:04:41,Negativo,0:01:00
-R3-20190402,Dibattito,TRUE,Borghi,,2:10:20,2:11:28,Negativo,0:01:08
-R3-20190402,Dibattito,TRUE,Borghi,,2:12:03,2:13:38,Negativo,0:01:35
-R3-20190402,Dibattito,TRUE,Mutti,,1:58:32,1:59:28,Neutro,0:00:56
-R3-20190402,Dibattito,TRUE,Mutti,,2:16:33,2:18:35,Positivo,0:02:02
-R3-20190402,Dibattito,TRUE,Capellini,,2:02:17,2:03:41,Positivo,0:01:24
-R3-20190402,Dibattito,TRUE,Toti,,2:14:51,2:16:00,Positivo,0:01:09
-R3-20190409,Intervista singola,FALSE,Corona,"conflitto politico e governativo, economia e finanza, occupazioni, lavoro e disoccupazione, razzismo, diritti civili",0:05:13,0:39:47,,0:34:34
-R3-20190409,Intervista singola,FALSE,Appendino,"conflitto politico e governativo, sicurezza e giustizia, occupazioni, clima e ambiente, infrastrutture, TAV, diritti civili, famiglia",0:39:59,1:05:32,,0:25:33
-R3-20190409,Dibattito,FALSE,"Padellaro, Boldrini, Borgonzoni","immigrazione, occupazioni, sicurezza e giustizia",1:08:20,1:54:59,,0:46:39
-R3-20190409,Dibattito,TRUE,Boldrini,politica di immigrazione comunitaria,1:26:00,1:27:43,Positivo,0:01:43
-R3-20190409,Dibattito,FALSE,"Manlio Di Stefano, Giordano, De Bortoli, Farinetti ",economia e finanza,1:55:00,2:31:48,,0:36:48
-R3-20190416,Dibattito,FALSE,"Meloni, Meli, Scanzi","conflitto politico e governativo, immigrazione",0:42:20,1:23:26,,0:41:06
-R3-20190416,Dibattito,TRUE,Meloni,politica di immigrazione comunitaria,0:42:20,0:45:17,Negativo,0:02:57
-R3-20190416,Dibattito,TRUE,Meloni,"politica di immigrazione comunitaria, confronto paesi ue",1:09:24,1:12:40,Negativo,0:03:16
-R3-20190416,Dibattito,TRUE,Meli,"politica di immigrazione comunitaria, confronto paesi ue",1:09:24,1:12:40,Positivo,0:03:16
-R3-20190416,Intervista singola,TRUE,Noto,intenzioni voto ue,1:13:00,1:15:00,Neutro,0:02:00
-R3-20190416,Intervista singola,FALSE,Bonino,"immigrazione, conflitto politico e governativo",1:30:26,1:37:21,,0:06:55
-R3-20190416,Intervista singola,TRUE,Bonino,"politica di immigrazione comunitaria, PESC",1:33:16,1:37:21,Positivo,0:04:05
-R3-20190416,Dibattito,FALSE,"Borghi, Gualmini, Vergassola, Giordano, Plateroti","economia e finanza, tasse",1:31:54,2:25:08,,0:53:14
-R3-20190416,Dibattito,TRUE,Gualmini,"politica economica e commerciale ue, fondi ue, confronto paesi ue",2:21:15,2:25:08,Positivo,0:03:53
-R3-20190430,Intervista singola,FALSE,Travaglio,"economia e finanza, conflitto politico e governativo, scandali, infrastrutture, TAV ",0:14:26,0:34:31,,0:20:05
-R3-20190430,Intervista singola,FALSE,Corona,"scandali, conflitto politico e governativo, diritti civili",0:35:17,0:52:20,,0:17:03
-R3-20190430,Intervista singola,FALSE,Landini,"lavoro e disoccupazione, economia e finanza, tasse, conflitto politico e governativo",0:52:26,1:16:46,,0:24:20
-R3-20190430,Intervista singola,TRUE,Landini,normative ue,0:57:08,0:58:45,Negativo,0:01:37
-R3-20190430,Dibattito,FALSE,"De Magistris, Rixi, Zilli","immigrazione, diritti umani",1:17:00,1:45:36,,0:28:36
-R3-20190430,Dibattito,TRUE,"Rixi, De Magistris",politica di immigrazione comunitaria,1:25:59,1:28:00,Negativo,0:02:01
-R3-20190430,Intervista singola,FALSE,D'Alema,conflitto politico e governativo,1:45:40,2:01:54,,0:16:14
-R3-20190430,Intervista singola,TRUE,D'Alema,schieramenti PE,1:52:38,2:01:54,Negativo,0:09:16
-R3-20190430,Dibattito,FALSE,"Patuanelli, Giordano, Botteri, Schimperna, Furfaro","immigrazione, lavoro e disoccupazione, economia e finanza, sicurezza e giustizia",2:01:55,2:28:48,,0:26:53
-R3-20190430,Intervista singola,TRUE,Noto,intenzioni voto ue,2:28:50,2:29:55,Neutro,0:01:05
-R3-20190507,Intervista singola,FALSE,Corona,"clima e ambiente, sicurezza e giustizia, legittima difesa, fascismo, scuola, scandali",0:05:01,0:24:58,,0:19:57
-R3-20190507,Intervista singola,FALSE,Shehata,"sicurezza e giustizia, cittadinanza",0:25:00,0:32:50,,0:07:50
-R3-20190507,Intervista singola,TRUE,Corona,clima e ambiente,0:33:58,0:34:30,Negativo,0:00:32
-R3-20190507,Intervista singola,FALSE,Di Maio,"economia e finanza, lavoro e disoccupazione, occupazioni, ",0:41:05,1:16:55,,0:35:50
-R3-20190507,Intervista singola,TRUE,Di Maio,"elezioni ue e stabilità governativa,  confronto paesi ue",1:13:46,1:16:55,Negativo,0:03:09
-R3-20190507,Dibattito,FALSE,"Varetto, Carfagna, De Bortoli","economia e finanza, sicurezza e giustizia, immigrazione, scandali",1:16:56,1:51:50,,0:34:54
-R3-20190507,Dibattito,TRUE,Carfagna,"politica di immigrazione comunitaria, schieramenti PE, confronto paesi ue",1:30:08,1:32:44,Positivo,0:02:36
-R3-20190507,Dibattito,FALSE,"Guenzi, Scanzi, Morelli, Fratoianni, Senaldi","sicurezza e giustizia, immigrazione, occupazioni",1:52:00,2:33:19,,0:41:19
-R3-20190514,Intervista singola,FALSE,Berlusconi,"conflitto politico e governativo, economia e finanza, tasse, immigrazione, scandali",0:51:28,1:11:10,,0:19:42
-R3-20190514,Intervista singola,TRUE,Berlusconi,"politica di immigrazione comunitaria, schieramenti PE, PESC",1:05:47,1:11:10,Negativo,0:05:23
-R3-20190514,Dibattito,FALSE,Bersani,"conflitto politico e governativo, economia e finanza, immigrazione, lavoro e disoccupazione, droga, occupazioni",1:11:55,1:46:05,,0:34:10
-R3-20190514,Dibattito,TRUE,Bersani,"schieramenti PE, politica di immigrazione comunitaria",1:18:05,1:18:44,Positivo,0:00:39
-R3-20190514,Dibattito,TRUE,Bersani,,1:19:01,1:19:15,Positivo,0:00:14
-R3-20190514,Dibattito,TRUE,Bersani,,1:21:27,1:26:50,Positivo,0:05:23
-R3-20190514,Dibattito,FALSE,Borghi,"conflitto politico e governativo, economia e finanza, tasse, immigrazione, lavoro e disoccupazione, droga, occupazioni",1:11:55,1:46:05,,0:34:10
-R3-20190514,Dibattito,TRUE,Borghi,"istituzioni ue e democrazia, politica di immigrazione comunitaria",1:17:01,1:18:03,Negativo,0:01:02
-R3-20190514,Dibattito,TRUE,Borghi,,1:18:05,1:18:44,Negativo,0:00:39
-R3-20190514,Dibattito,TRUE,Borghi,,1:22:17,1:23:15,Negativo,0:00:58
-R3-20190514,Dibattito,TRUE,Borghi,,1:24:37,1:27:12,Negativo,0:02:35
-R3-20190514,Dibattito,FALSE,"Albanesi, Buffagni, Belpietro, Scanzi","conflitto politico e governativo, lavoro e disoccupazione, scandali, occupazioni, sicurezza e giustizia, immigrazione",1:46:59,2:27:07,,0:40:08
-R3-20190514,Dibattito,TRUE,"Albanesi, Buffagni, Belpietro, Scanzi",elezioni ue e stabilità governativa,2:02:30,2:09:55,Neutro,0:07:25
-R3-20190521,Intervista singola,FALSE,Corona,"intenzioni voto ue, clima e ambiente",0:05:08,0:21:40,,0:16:32
-R3-20190521,Intervista singola,TRUE,Corona,"intenzioni voto ue, schieramenti PE",0:05:08,0:11:00,Neutro,0:05:52
-R3-20190521,Intervista singola,FALSE,Cacciari,"conflitto politico e governativo, economia e finanza, immigrazione",0:21:42,0:41:25,,0:19:43
-R3-20190521,Intervista singola,TRUE,Cacciari,"valori europei, politica di immigrazione comunitaria",0:32:39,0:37:00,Positivo,0:04:21
-R3-20190521,Dibattito,FALSE,"Salvini, Scanzi, Brambilla","sicurezza e giustizia, immigrazione, occupazioni, scandali, conflitto politico e governativo",0:41:30,1:24:01,,0:42:31
-R3-20190521,Dibattito,TRUE,Salvini,"politica di immigrazione comunitaria, elezioni ue e stabilità governativa, normative ue, politica economica e commerciale ue",1:05:40,1:13:50,Negativo,0:08:10
-R3-20190521,Dibattito,FALSE,"Zingaretti, Meli, Cappellini","economia e finanza, conflitto politico e governativo, occupazioni, scuola, libertà",1:24:30,1:49:50,,0:25:20
-R3-20190521,Dibattito,TRUE,Cappellini,elezioni ue e stabilità governativa,1:32:01,1:33:59,Neutro,0:01:58
-R3-20190521,Servizio,TRUE,Bonanno,"schieramenti PE, diritti civili",1:50:00,1:50:43,Positivo,0:00:43
-R3-20190521,Servizio,TRUE,Adinolfi,"schieramenti PE, valori europei, famiglia",1:50:44,1:51:02,Positivo,0:00:18
-R3-20190521,Servizio,TRUE,,"verdi, clima e ambiente, schieramenti PE",1:51:03,1:51:33,Positivo,0:00:30
-R3-20190521,Servizio,TRUE,Venturini,schieramenti PE,1:51:33,1:51:57,Positivo,0:00:24
-R3-20190521,Servizio,TRUE,Ceriello,"schieramenti PE, diritti animali",1:51:58,1:52:23,Positivo,0:00:25
-R3-20190521,Servizio,TRUE,Rizzo,politica economica e commerciale ue,1:52:24,1:52:45,Negativo,0:00:21
-R3-20190521,Servizio,TRUE,Provenzale,"schieramenti PE, politica economica e commerciale ue",1:52:46,1:53:11,Negativo,0:00:25
-R3-20190521,Intervista singola,FALSE,Meloni,"economia e finanza, tasse, conflitto politico e governativo",1:53:59,2:08:24,,0:14:25
-R3-20190521,Intervista singola,TRUE,Meloni,"elezioni ue e stabilità governativa, schieramenti PE, normative ue, confronto paesi ue, politica di immigrazione comunitaria",1:55:56,2:05:16,Negativo,0:09:20
-R3-20190521,Dibattito,FALSE,"Friedman, Buffagni, Forchielli","economia e finanza, tasse, conflitto politico e governativo",2:08:28,2:33:37,,0:25:09
-R3-20190521,Dibattito,TRUE,Friedman,politica economica e commerciale ue,2:15:56,2:17:20,Positivo,0:01:24
-M4-20190307,Intervista singola,FALSE,Salvini,"economia e finanza, immigrazione, sicurezza e giustizia, infrastrutture, TAV, lavoro e disoccupazione, occupazioni",0:04:50,1:01:32,,0:56:42
-M4-20190307,Intervista singola,TRUE,Salvini,intenzioni voto ue,0:50:32,0:55:20,Negativo,0:04:48
-M4-20190307,Intervista singola,FALSE,Bonometti,"economia e finanza, tasse, lavoro e disoccupazione",1:02:23,1:09:19,,0:06:56
-M4-20190307,Dibattito,FALSE,"Buffagni, Gelmini, Fagnani","infrastrutture, TAV, occupazioni, conflitto politico e governativo, lavoro e disoccupazione",1:10:11,1:50:00,,0:39:49
-M4-20190307,Dibattito,FALSE,"Scampini, Fagnani, Amicone, Roma","sicurezza e giustizia, prostituzione",1:51:47,2:33:14,,0:41:27
-M4-20190307,Dibattito,FALSE,"Rasio, Salvo, Radic, Rodriguez, Barbati","economia e finanza, clima e ambiente",2:33:20,2:59:04,,0:25:44
-M4-20190307,Dibattito,TRUE,Barbati,normative ue,2:41:38,2:43:13,Positivo,0:01:35
-M4-20190314,Intervista singola,FALSE,Berlusconi,"conflitto politico e governativo, lavoro e disoccupazione, economia e finanza, tasse, scandali, occupazioni, infrastrutture, TAV",0:06:48,0:35:40,,0:28:52
-M4-20190314,Intervista singola,TRUE,Berlusconi,PESC,0:34:31,0:35:40,Positivo,0:01:09
-M4-20190314,Dibattito,FALSE,"Durigon, Giordano, Carnevale-Maffè, Morani","pensioni, lavoro e disoccupazione",0:36:11,1:01:50,,0:25:39
-M4-20190314,Dibattito,FALSE,"Maniero, Wu, Giordano, Capone","economia e finanza, prostituzione, sicurezza e giustizia",1:01:54,1:25:18,,0:23:24
-M4-20190314,Dibattito,TRUE,Capone,normative ue,1:11:55,1:13:20,Positivo,0:01:25
-M4-20190314,Dibattito,TRUE,Maniero,confronto paesi ue,1:21:51,1:22:08,Negativo,0:00:17
-M4-20190314,Dibattito,FALSE,"Fagnani, Cruciani, Luxuria, Adinolfi","scandali, sicurezza e giustizia",1:25:20,1:56:04,,0:30:44
-M4-20190314,Dibattito,FALSE,"Adinolfi, Luxuria, Manca, Meluzzi, Agosti","scandali, sicurezza e giustizia",1:56:07,2:55:05,,0:58:58
-M4-20190321,Intervista singola,FALSE,Di Maio,"sicurezza e giustizia, immigrazione, cittadinanza, lavoro e disoccupazione, famiglia, conflitto politico e governativo",0:02:54,0:42:40,,0:39:46
-M4-20190321,Intervista singola,FALSE,Salvini,"sicurezza e giustizia, razzismo, cittadinanza, famiglia, immigrazione",0:42:45,1:04:24,,0:21:39
-M4-20190321,Dibattito,FALSE,"Fagnani, Sallusti, Zerbilli, Bechis, Mussolini, Malpezzi","sicurezza e giustizia, immigrazione, razzismo",1:04:25,1:48:18,,0:43:53
-M4-20190321,Dibattito,FALSE,"Donazzan, Trapanese, Adinolfi, De Mari, Bergamini, Malpezzi, Cecchi Paone","diritti civili, famiglia",1:48:40,2:53:19,,1:04:39
-M4-20190328,Intervista singola,FALSE,Meloni,"conflitto politico e governativo, cittadinanza, sicurezza e giustizia, legittima difesa, famiglia, diritti civili",0:01:16,0:18:30,,0:17:14
-M4-20190328,Intervista singola,TRUE,Meloni,proposte ue,0:08:50,0:10:24,Positivo,0:01:34
-M4-20190328,Dibattito,FALSE,"Giordano, Facchinetti, Fedriga, Di Bartolomei, Ricci, Fagnani","sicurezza e giustizia, legittima difesa",0:18:34,1:38:45,,1:20:11
-M4-20190328,Dibattito,FALSE,"Davi, Coghe, Cattaneo, Comi, Morani, De Mari","libertà, diritti civili, famiglia",1:57:00,2:41:18,,0:44:18
-M4-20190404,Intervista singola,FALSE,Landini,"lavoro e disoccupazione, economia e finanza",0:07:20,0:20:53,,0:13:33
-M4-20190404,Dibattito,FALSE,"Siri, Librandi, Belpietro","economia e finanza, tasse, lavoro e disoccupazione, ",0:21:00,0:55:00,,0:34:00
-M4-20190404,Dibattito,FALSE,"Giordano, Fusani, De Mari, Ravetto, Rotta, Donzelli",sicurezza e giustizia,0:55:03,1:57:35,,1:02:32
-M4-20190404,Dibattito,FALSE,"Giordano, Fagnani, Zuinisi, Castaldo, Scotto, Mughini, Donzelli","razzismo, occupazioni",1:57:41,2:55:29,,0:57:48
-M4-20190404,Dibattito,TRUE,"Giordano, Fagnani, Zuinisi, Castaldo, Scotto, Mughini, Donzelli",fondi ue,2:40:03,2:42:00,Positivo,0:01:57
-M4-20190411,Dibattito,FALSE,"Fagnani, Ceccardi, Toscani, Maglie, Moretti, Brosio, Ronzulli, Bonafede","razzismo, immigrazione, occupazioni, sicurezza e giustizia ",0:10:00,1:05:49,,0:55:49
-M4-20190411,Dibattito,FALSE,"Belpietro, Moretti, Ronzulli, Laqrichat","lavoro e disoccupazione, famiglia",1:07:31,1:30:26,,0:22:55
-M4-20190411,Dibattito,FALSE,"Fiano, Parietti, Mussolini, Bacconeri, Scampini, Formaggio, Belpietro","occupazioni, razzismo, fascismo",1:30:38,2:10:39,,0:40:01
-M4-20190411,Dibattito,FALSE,"Cruciani, Martani, Squillo, Vissani, De Mari, Cassano",alimentazione,2:12:11,2:50:08,,0:37:57
-M4-20190418,Intervista singola,FALSE,Di Maio,"conflitto politico e governativo, sanità, scandali, economia e finanza",0:01:20,0:31:40,,0:30:20
-M4-20190418,Dibattito,FALSE,"Senaldi, Morelli, Fusani, Bonafè","economia e finanza, tasse ",0:31:32,0:52:00,,0:20:28
-M4-20190418,Dibattito,TRUE,Morelli,politica economica e commerciale ue,0:46:30,0:50:54,Negativo,0:04:24
-M4-20190418,Dibattito,FALSE,"Senaldi, Fusani, Facchinetti, Mallegni, De Mari, Casamonica","sicurezza e giustizia, occupazioni",0:52:02,1:35:39,,0:43:37
-M4-20190418,Dibattito,FALSE,"Cruciani, Giarrusso, Librandi, Del Noce","pensioni, economia e finanza, tasse",1:35:40,2:05:00,,0:29:20
-M4-20190418,Dibattito,FALSE,"Staller, Sgarbi, Cruciani, Librandi, Crocetta","pensioni, economia e finanza, tasse",2:05:00,2:40:50,,0:35:50
-M4-20190502,Dibattito,FALSE,"Cruciani, Borgonzoni, Morani, De Blanck, Fagnani, Diaferia, Corrao","sicurezza e giustizia, legittima difesa, immigrazione",0:04:29,0:46:10,,0:41:41
-M4-20190502,Intervista singola,FALSE,Tajani,"conflitto politico e governativo, economia e finanza, lavoro e disoccupazione, tasse, scandali",0:46:20,1:06:01,,0:19:41
-M4-20190502,Intervista singola,TRUE,Tajani,"politica economica e commerciale ue, normative ue, fondi ue",0:46:20,0:53:39,Positivo,0:07:19
-M4-20190502,Dibattito,FALSE,"Santanchè, Scampini, Belpietro, Laforgia, Simone Di Stefano, De Mari","sicurezza e giustizia, fascismo",1:06:35,1:41:30,,0:34:55
-M4-20190502,Dibattito,FALSE,"Parietti, Mussolini, Belpietro, Majorino, Formaggio","sicurezza e giustizia, fascismo, democrazia",1:42:16,2:43:00,,1:00:44
-M4-20190509,Intervista singola,FALSE,Di Maio,"occupazioni, diritti civili, lavoro e disoccupazione, droga",0:04:58,0:19:14,,0:14:16
-M4-20190509,Intervista singola,TRUE,Di Maio,"normative ue, proposte ue, intenzioni voto ue",0:14:53,0:17:17,Positivo,0:02:24
-M4-20190509,Dibattito,FALSE,"Giordano, Fagnani, De Mari, De Micheli, Comi","occupazioni, sicurezza e giustizia",0:19:27,0:41:50,,0:22:23
-M4-20190509,Intervista singola,FALSE,Salvini,"sicurezza e giustizia, occupazioni, droga, economia e finanza, tasse, fascismo, scandali",0:43:44,1:02:53,,0:19:09
-M4-20190509,Intervista singola,TRUE,Salvini,"normative ue, politica economica e commerciale ue, proposte ue",0:54:00,0:56:48,Negativo,0:02:48
-M4-20190509,Dibattito,FALSE,"Giordano, Buffagni, Plateroti, De Micheli, Merola, Comi","economia e finanza, tasse, scandali",1:03:00,1:37:15,,0:34:15
-M4-20190509,Dibattito,TRUE,"Giordano, Buffagni, Plateroti, De Micheli, Merola, Comi","normative ue, confronto paesi ue",1:22:23,1:24:30,Negativo,0:02:07
-M4-20190509,Dibattito,FALSE,"Cruciani, Cecchi Paone, Carofalo, Giordano, Sardone, Ricciarelli, Odifreddi, Rozza","sicurezza e giustizia, immigrazione, droga, legittima difesa, fascismo",1:39:57,2:49:29,,1:09:32
-M4-20190509,Dibattito,TRUE,"Cruciani, Cecchi Paone, Carofalo, Giordano, Sardone, Ricciarelli, Odifreddi, Rozza","normative ue, politica di immigrazione comunitaria",2:16:25,2:20:00,Negativo,0:03:35
-M4-20190516,Intervista singola,FALSE,Di Maio,"occupazioni, sicurezza e giustizia, economia e finanza, lavoro e disoccupazione, tasse",0:05:47,0:30:03,,0:24:16
-M4-20190516,Intervista singola,TRUE,Di Maio,normative ue,0:10:05,0:11:13,Negativo,0:01:08
-M4-20190516,Intervista singola,FALSE,Meloni,"occupazioni, sicurezza e giustizia, economia e finanza, conflitto politico e governativo",0:30:08,0:47:24,,0:17:16
-M4-20190516,Intervista singola,TRUE,Meloni,"politica economica e commerciale ue, normative ue",0:45:01,0:47:24,Negativo,0:02:23
-M4-20190516,Intervista singola,TRUE,Meloni,"politica economica e commerciale ue, normative ue",0:37:03,0:41:25,Negativo,0:04:22
-M4-20190516,Intervista singola,FALSE,Berlusconi,"pensioni, politica estera, conflitto politico e governativo, tasse, libertà, economia e finanza, immigrazione",0:50:17,1:11:58,,0:21:41
-M4-20190516,Intervista singola,TRUE,Berlusconi,"PESC, politica di immigrazione comunitaria",0:50:17,0:55:12,Positivo,0:04:55
-M4-20190516,Intervista singola,TRUE,Berlusconi,"PESC, politica di immigrazione comunitaria, schieramenti PE, elezioni ue e stabilità governativa, politica economica e commerciale ue",1:02:38,1:09:02,Positivo,0:06:24
-M4-20190516,Dibattito,FALSE,"Giordano, Fagnani, Tinagli, Ferrero, Alzetta, Rigoldi","occupazioni, sicurezza e giustizia",1:11:58,1:52:23,,0:40:25
-M4-20190516,Intervista singola,FALSE,Salvini,"conflitto politico e governativo, sicurezza e giustizia, immigrazione, economia e finanza, tasse, scandali",1:52:24,2:11:17,,0:18:53
-M4-20190516,Intervista singola,TRUE,Salvini,"politica di immigrazione comunitaria, politica economica e commerciale ue",1:58:03,1:59:11,Negativo,0:01:08
-M4-20190516,Dibattito,FALSE,"Cruciani, Adzovic, Fusani, Folliero, Librandi, Donazzan","occupazioni, case popolari",2:11:20,2:50:40,,0:39:20
-M4-20190516,Servizio,TRUE,Summonte,"schieramenti PE, proposte ue",2:50:40,2:54:27,Positivo,0:03:47
-M4-20190523,Dibattito,FALSE,"Belpietro, Fagnani, Morelli, Moretti, Nevola","conflitto politico e governativo, razzismo",0:35:20,0:49:02,,0:13:42
-M4-20190523,Servizio,TRUE,Fogar,cittadini e ue,0:49:13,0:51:15,Neutro,0:02:02
-M4-20190523,Intervista singola,FALSE,Berlusconi,"politica estera, conflitto politico e governativo, ",0:51:16,1:18:09,,0:26:53
-M4-20190523,Intervista singola,TRUE,Berlusconi,"elezioni ue e stabilità governativa, PESC, schieramenti PE, politica di immigrazione comunitaria",0:51:16,0:57:24,Positivo,0:06:08
-M4-20190523,Intervista singola,TRUE,Berlusconi,"elezioni ue e stabilità governativa, PESC, schieramenti PE, politica di immigrazione comunitaria",1:05:44,1:12:31,Positivo,0:06:47
-M4-20190523,Intervista singola,FALSE,Calenda,"occupazioni, conflitto politico e governativo, scandali, economia e finanza, tasse, immigrazione, scuola",1:20:40,1:40:00,,0:19:20
-M4-20190523,Intervista singola,TRUE,Calenda,"normative ue, schieramenti PE, proposte ue",1:20:40,1:22:45,Positivo,0:02:05
-M4-20190523,Servizio,TRUE,,normative ue,1:18:30,1:20:40,Negativo,0:02:10
-M4-20190523,Dibattito,FALSE,"Santanchè, Cecchi Paone, Cruciani, Piller, Rizzo, Scampini, Trefiletti",economia e finanza,1:40:01,2:20:40,,0:40:39
-M4-20190523,Dibattito,TRUE,Santanchè,"normative ue, politica economica e commerciale ue",1:46:00,1:50:11,Negativo,0:04:11
-M4-20190523,Dibattito,TRUE,Santanchè,,2:01:45,2:06:54,Negativo,0:05:09
-M4-20190523,Dibattito,TRUE,Rizzo,diritti umani,2:06:55,2:10:08,Negativo,0:03:13
-M4-20190523,Dibattito,TRUE,Santanchè,,2:10:08,2:20:40,Negativo,0:10:32
-M4-20190523,Dibattito,TRUE,Santanchè,politica di immigrazione comunitaria,2:30:40,2:31:45,Negativo,0:01:05
-M4-20190523,Dibattito,FALSE,"Senaldi, Cecchi Paone, Biancalani, Cruciani, Scampini, Santanchè","sicurezza e giustizia, immigrazione",2:20:44,2:45:23,,0:24:39
-M4-20190523,Dibattito,TRUE,"Senaldi, Santanchè","confronto paesi ue, politica di immigrazione comunitaria",2:30:40,2:31:45,Negativo,0:01:05
-M4-20190523,Servizio,TRUE,,come si vota per il PE,2:49:27,2:50:48,Neutro,0:01:21
-M4-20190523,Servizio,TRUE,Fratoianni,schieramenti PE,2:50:48,2:51:38,Positivo,0:00:50
-M4-20190523,Servizio,TRUE,Della Vedova,"schieramenti PE, normative ue",2:51:38,2:52:04,Positivo,0:00:26
-M4-20190523,Servizio,TRUE,Gheller,normative ue,2:52:05,2:52:24,Positivo,0:00:19
-M4-20190523,Servizio,TRUE,Mauro,schieramenti PE,2:52:25,2:52:50,Positivo,0:00:25
-M4-20190523,Servizio,TRUE,Rizzo,politica economica e commerciale ue,2:52:51,2:53:00,Negativo,0:00:09
-M4-20190523,Servizio,TRUE,Simone Di Stefano,politica economica e commerciale ue,2:53:01,2:53:56,Negativo,0:00:55
-R3-20190528,Intervista singola,TRUE,Corona,risultati europee,0:04:00,0:08:00,Neutro,0:04:00
-R3-20190528,Servizio,TRUE,,risultati europee,0:09:20,0:13:10,Neutro,0:03:50
-R3-20190528,Intervista singola,TRUE,Corona,elezioni ue e stabilità governativa,0:13:12,0:15:30,Neutro,0:02:18
-R3-20190528,Intervista singola,TRUE,Corona,risultati europee,0:15:35,0:27:22,Neutro,0:11:47
-R3-20190528,Intervista singola,FALSE,Corona,"lavoro e disoccupazione, sicurezza e giustizia, clima e ambiente, conflitto politico e governativo",0:27:22,0:37:59,,0:10:37
-R3-20190528,Intervista singola,FALSE,Meloni,conflitto politico e governativo,0:38:20,0:48:56,,0:10:36
-R3-20190528,Intervista singola,TRUE,Meloni,"risultati europee, schieramenti PE, politica di immigrazione comunitaria",0:48:56,0:50:54,Neutro,0:01:58
-R3-20190528,Dibattito,TRUE,"De Bortoli, D'alema","risultati europee, istituzioni ue e democrazia",0:51:12,0:58:40,Positivo,0:07:28
-R3-20190528,Dibattito,FALSE,"De Bortoli, D'alema",conflitto politico e governativo,0:58:41,1:00:20,,0:01:39
-R3-20190528,Dibattito,TRUE,"De Bortoli, D'alema",crisi economica ue,1:00:40,1:01:01,Negativo,0:00:21
-R3-20190528,Dibattito,TRUE,"De Bortoli, D'alema","risultati europee, elezioni ue e stabilità governativa, brexit, istituzioni ue e democrazia",1:00:40,1:18:30,Positivo,0:17:50
-R3-20190528,Dibattito,TRUE,"Scanzi, Belpietro, Forchielli","risultati europee, elezioni ue e stabilità governativa, brexit, politica economica e commerciale ue, fondi ue",1:23:15,1:51:23,Neutro,0:28:08
-R3-20190528,Servizio,TRUE,,brexit,1:18:31,1:22:00,Positivo,0:03:29
-R3-20190528,Dibattito,FALSE,"Borgonzoni, Nardella, Sangiuliano, Gomez","conflitto politico e governativo, tasse, infrastrutture, TAV, immigrazione, sicurezza e giustizia",1:57:40,2:29:25,,0:31:45
-M4-20190530,Servizio,FALSE,,Elettori,0:05:30,0:09:17,,0:03:47
-M4-20190530,Intervista singola,FALSE,Salvini,"conflitto politico e governativo, tasse",0:09:18,0:23:44,,0:14:26
-M4-20190530,Intervista singola,TRUE,Salvini,"schieramenti PE, risultati europee, istituzioni ue e democrazia, confronto paesi ue",0:23:50,0:28:47,Positivo,0:04:57
-M4-20190530,Intervista singola,FALSE,Salvini,"TAV, infrastrutture, economia e finanza, conflitto politico e governativo, droga, immigrazione, sicurezza e giustizia",0:28:48,0:51:20,,0:22:32
-M4-20190530,Intervista singola,TRUE,Salvini,fondi ue,0:32:34,0:33:30,Positivo,0:00:56
-M4-20190530,Servizio,FALSE,,movimento 5 stelle,0:51:36,0:54:40,,0:03:04
-M4-20190530,Dibattito,TRUE,"Belpietro, Sallusti, Borghi, Gualmini, Padullà, Ronzulli, Martinelli","risultati europee, schieramenti PE",1:24:29,1:25:05,Neutro,0:00:36
-M4-20190530,Dibattito,TRUE,"Belpietro, Sallusti, Borghi, Gualmini, Padullà, Ronzulli, Martinelli","risultati europee, schieramenti PE",1:30:00,1:33:07,Neutro,0:03:07
-M4-20190530,Dibattito,FALSE,"Belpietro, Sallusti, Borghi, Gualmini, Padullà, Ronzulli, Martinelli","conflitto politico e governativo, lavoro e disoccupazione",0:53:43,1:56:27,,1:02:44
-M4-20190530,Dibattito,TRUE,"Cruciani, Orsini, Donzelli, Belpietro, Antonelli, Majorino, Smaila","politica di immigrazione comunitaria, confronto paesi ue, risultati europee",2:04:30,2:05:00,Neutro,0:00:30
-M4-20190530,Dibattito,FALSE,"Cruciani, Orsini, Donzelli, Belpietro, Antonelli, Majorino, Smaila","immigrazione, sicurezza e giustizia, lavoro e disoccupazione, razzismo",1:57:06,2:59:24,,1:02:18
+id_puntata,tipologia,UE,ospite,keyword,start,end,sentiment
+R3-20190305,Dibattito,FALSE,"Mieli, Bersani","conflitto politico e governativo, sicurezza e giustizia, legittima difesa, cittadinanza",0:42:00,1:16:04,
+R3-20190305,Intervista singola,TRUE,Noto,intenzioni voto ue,1:16:05,1:17:28,Neutro
+R3-20190305,Dibattito,FALSE,"Manlio Di Stefano, De Magistris","sicurezza e giustizia, legittima difesa, infrastrutture, TAV, occupazioni",1:17:28,1:43:08,
+R3-20190305,Intervista singola,FALSE,Ayane,immigrazione,1:43:10,1:49:30,
+R3-20190305,Dibattito,FALSE,"Borghi, Cappellini, Nardella, Belpietro","infrastrutture, TAV, sicurezza e giustizia, legittima difesa, economia e finanza, lavoro e disoccupazione",1:49:31,2:30:02,
+R3-20190312,Dibattito,FALSE,"Corona, Tozzi","infrastrutture, TAV, clima e ambiente",0:29:20,0:43:21,
+R3-20190312,Dibattito,FALSE,"Sgarbi, Cazzola, Tozzi, Giuli","infrastrutture, TAV, clima e ambiente, conflitto politico e governativo",0:50:15,1:20:00,
+R3-20190312,Dibattito,TRUE,"Sgarbi, Cazzola, Tozzi, Giuli",elezioni ue e stabilità governativa,1:18:16,1:19:00,Neutro
+R3-20190312,Dibattito,FALSE,"Borgonzoni, Moretti","sicurezza e giustizia, occupazioni, clima e ambiente, infrastrutture, TAV, sanità",1:22:46,1:50:55,
+R3-20190312,Intervista singola,TRUE,Noto,intenzioni voto ue,1:51:40,1:53:08,Neutro
+R3-20190312,Dibattito,FALSE,"Giordano, Friedman, Costamagna, Furfaro","sicurezza e giustizia, legittima difesa, occupazioni, immigrazione",1:53:10,2:29:40,
+R3-20190319,Intervista singola,FALSE,Corona,immigrazione,0:05:00,0:27:10,
+R3-20190319,Intervista singola,FALSE,Zingaretti,"immigrazione, conflitto politico e governativo",0:48:55,1:18:19,
+R3-20190319,Intervista singola,TRUE,Zingaretti,"schieramenti PE, proposte ue",1:00:19,1:05:26,Positivo
+R3-20190319,Dibattito,FALSE,"Cacciari, Mieli, Belpietro","immigrazione, diritti umani",1:19:56,1:57:30,
+R3-20190319,Dibattito,TRUE,Cacciari,politica di immigrazione comunitaria,1:51:21,1:52:58,Negativo
+R3-20190319,Dibattito,FALSE,"Vergassola, De Masi, Mughini, Gasparri, Scanzi","sicurezza e giustizia, economia e finanza, lavoro e disoccupazione, occupazioni, conflitto politico e governativo",1:57:31,2:34:37,
+R3-20190319,Dibattito,TRUE,"Vergassola, De Masi, Mughini, Gasparri, Scanzi",elezioni ue e stabilità governativa,2:17:20,2:18:31,Neutro
+R3-20190326,Intervista singola,FALSE,Corona,"conflitto politico e governativo, razzismo, cittadinanza",0:05:00,0:27:43,
+R3-20190326,Intervista singola,FALSE,Buffagni,"conflitto politico e governativo, cittadinanza, scandali, clima e ambiente",0:41:54,1:11:52,
+R3-20190326,Intervista singola,FALSE,Casarini,immigrazione,1:13:20,1:21:54,
+R3-20190326,Dibattito,FALSE,"Fortunato, Scanzi, Giordano",immigrazione,1:23:43,1:50:14,
+R3-20190326,Dibattito,TRUE,"Fortunato, Scanzi, Giordano",politica di immigrazione comunitaria,1:47:21,1:50:14,Negativo
+R3-20190326,Intervista singola,FALSE,Vanoni,"razzismo, diritti civili, immigrazione, cittadinanza",1:50:52,2:08:18,
+R3-20190326,Dibattito,FALSE,"Barbano, Scanzi, Borghi, Cipriani","economia e finanza, tasse, lavoro e disoccupazione",2:08:20,2:31:59,
+R3-20190402,Intervista singola,FALSE,Corona,"diritti civili, famiglia, economia e finanza, clima e ambiente",0:13:41,0:43:10,
+R3-20190402,Dibattito,FALSE,"Cirinnà, Gardini, Scanzi, Belpietro","libertà, diritti civili, famiglia",0:43:10,1:19:30,
+R3-20190402,Dibattito,FALSE,"Cirinnà, Giuli, Conte, Scanzi","occupazioni, sicurezza e giustizia, legittima difesa",1:19:32,1:54:08,
+R3-20190402,Dibattito,TRUE,Giuli,normative ue,1:26:00,1:27:53,Negativo
+R3-20190402,Dibattito,FALSE,"Mutti, Borghi, Toti, Cappellini","economia e finanza, lavoro e disoccupazione, pensioni",1:57:00,2:30:11,
+R3-20190402,Dibattito,TRUE,Borghi,"politica economica e commerciale ue, fondi ue",1:57:28,1:58:32,Negativo
+R3-20190402,Dibattito,TRUE,Borghi,,1:59:47,2:00:24,Negativo
+R3-20190402,Dibattito,TRUE,Borghi,,2:03:41,2:04:41,Negativo
+R3-20190402,Dibattito,TRUE,Borghi,,2:10:20,2:11:28,Negativo
+R3-20190402,Dibattito,TRUE,Borghi,,2:12:03,2:13:38,Negativo
+R3-20190402,Dibattito,TRUE,Mutti,,1:58:32,1:59:28,Neutro
+R3-20190402,Dibattito,TRUE,Mutti,,2:16:33,2:18:35,Positivo
+R3-20190402,Dibattito,TRUE,Capellini,,2:02:17,2:03:41,Positivo
+R3-20190402,Dibattito,TRUE,Toti,,2:14:51,2:16:00,Positivo
+R3-20190409,Intervista singola,FALSE,Corona,"conflitto politico e governativo, economia e finanza, occupazioni, lavoro e disoccupazione, razzismo, diritti civili",0:05:13,0:39:47,
+R3-20190409,Intervista singola,FALSE,Appendino,"conflitto politico e governativo, sicurezza e giustizia, occupazioni, clima e ambiente, infrastrutture, TAV, diritti civili, famiglia",0:39:59,1:05:32,
+R3-20190409,Dibattito,FALSE,"Padellaro, Boldrini, Borgonzoni","immigrazione, occupazioni, sicurezza e giustizia",1:08:20,1:54:59,
+R3-20190409,Dibattito,TRUE,Boldrini,politica di immigrazione comunitaria,1:26:00,1:27:43,Positivo
+R3-20190409,Dibattito,FALSE,"Manlio Di Stefano, Giordano, De Bortoli, Farinetti ",economia e finanza,1:55:00,2:31:48,
+R3-20190416,Dibattito,FALSE,"Meloni, Meli, Scanzi","conflitto politico e governativo, immigrazione",0:42:20,1:23:26,
+R3-20190416,Dibattito,TRUE,Meloni,politica di immigrazione comunitaria,0:42:20,0:45:17,Negativo
+R3-20190416,Dibattito,TRUE,Meloni,"politica di immigrazione comunitaria, confronto paesi ue",1:09:24,1:12:40,Negativo
+R3-20190416,Dibattito,TRUE,Meli,"politica di immigrazione comunitaria, confronto paesi ue",1:09:24,1:12:40,Positivo
+R3-20190416,Intervista singola,TRUE,Noto,intenzioni voto ue,1:13:00,1:15:00,Neutro
+R3-20190416,Intervista singola,FALSE,Bonino,"immigrazione, conflitto politico e governativo",1:30:26,1:37:21,
+R3-20190416,Intervista singola,TRUE,Bonino,"politica di immigrazione comunitaria, PESC",1:33:16,1:37:21,Positivo
+R3-20190416,Dibattito,FALSE,"Borghi, Gualmini, Vergassola, Giordano, Plateroti","economia e finanza, tasse",1:31:54,2:25:08,
+R3-20190416,Dibattito,TRUE,Gualmini,"politica economica e commerciale ue, fondi ue, confronto paesi ue",2:21:15,2:25:08,Positivo
+R3-20190430,Intervista singola,FALSE,Travaglio,"economia e finanza, conflitto politico e governativo, scandali, infrastrutture, TAV ",0:14:26,0:34:31,
+R3-20190430,Intervista singola,FALSE,Corona,"scandali, conflitto politico e governativo, diritti civili",0:35:17,0:52:20,
+R3-20190430,Intervista singola,FALSE,Landini,"lavoro e disoccupazione, economia e finanza, tasse, conflitto politico e governativo",0:52:26,1:16:46,
+R3-20190430,Intervista singola,TRUE,Landini,normative ue,0:57:08,0:58:45,Negativo
+R3-20190430,Dibattito,FALSE,"De Magistris, Rixi, Zilli","immigrazione, diritti umani",1:17:00,1:45:36,
+R3-20190430,Dibattito,TRUE,"Rixi, De Magistris",politica di immigrazione comunitaria,1:25:59,1:28:00,Negativo
+R3-20190430,Intervista singola,FALSE,D'Alema,conflitto politico e governativo,1:45:40,2:01:54,
+R3-20190430,Intervista singola,TRUE,D'Alema,schieramenti PE,1:52:38,2:01:54,Negativo
+R3-20190430,Dibattito,FALSE,"Patuanelli, Giordano, Botteri, Schimperna, Furfaro","immigrazione, lavoro e disoccupazione, economia e finanza, sicurezza e giustizia",2:01:55,2:28:48,
+R3-20190430,Intervista singola,TRUE,Noto,intenzioni voto ue,2:28:50,2:29:55,Neutro
+R3-20190507,Intervista singola,FALSE,Corona,"clima e ambiente, sicurezza e giustizia, legittima difesa, fascismo, scuola, scandali",0:05:01,0:24:58,
+R3-20190507,Intervista singola,FALSE,Shehata,"sicurezza e giustizia, cittadinanza",0:25:00,0:32:50,
+R3-20190507,Intervista singola,TRUE,Corona,clima e ambiente,0:33:58,0:34:30,Negativo
+R3-20190507,Intervista singola,FALSE,Di Maio,"economia e finanza, lavoro e disoccupazione, occupazioni, ",0:41:05,1:16:55,
+R3-20190507,Intervista singola,TRUE,Di Maio,"elezioni ue e stabilità governativa,  confronto paesi ue",1:13:46,1:16:55,Negativo
+R3-20190507,Dibattito,FALSE,"Varetto, Carfagna, De Bortoli","economia e finanza, sicurezza e giustizia, immigrazione, scandali",1:16:56,1:51:50,
+R3-20190507,Dibattito,TRUE,Carfagna,"politica di immigrazione comunitaria, schieramenti PE, confronto paesi ue",1:30:08,1:32:44,Positivo
+R3-20190507,Dibattito,FALSE,"Guenzi, Scanzi, Morelli, Fratoianni, Senaldi","sicurezza e giustizia, immigrazione, occupazioni",1:52:00,2:33:19,
+R3-20190514,Intervista singola,FALSE,Berlusconi,"conflitto politico e governativo, economia e finanza, tasse, immigrazione, scandali",0:51:28,1:11:10,
+R3-20190514,Intervista singola,TRUE,Berlusconi,"politica di immigrazione comunitaria, schieramenti PE, PESC",1:05:47,1:11:10,Negativo
+R3-20190514,Dibattito,FALSE,Bersani,"conflitto politico e governativo, economia e finanza, immigrazione, lavoro e disoccupazione, droga, occupazioni",1:11:55,1:46:05,
+R3-20190514,Dibattito,TRUE,Bersani,"schieramenti PE, politica di immigrazione comunitaria",1:18:05,1:18:44,Positivo
+R3-20190514,Dibattito,TRUE,Bersani,,1:19:01,1:19:15,Positivo
+R3-20190514,Dibattito,TRUE,Bersani,,1:21:27,1:26:50,Positivo
+R3-20190514,Dibattito,FALSE,Borghi,"conflitto politico e governativo, economia e finanza, tasse, immigrazione, lavoro e disoccupazione, droga, occupazioni",1:11:55,1:46:05,
+R3-20190514,Dibattito,TRUE,Borghi,"istituzioni ue e democrazia, politica di immigrazione comunitaria",1:17:01,1:18:03,Negativo
+R3-20190514,Dibattito,TRUE,Borghi,,1:18:05,1:18:44,Negativo
+R3-20190514,Dibattito,TRUE,Borghi,,1:22:17,1:23:15,Negativo
+R3-20190514,Dibattito,TRUE,Borghi,,1:24:37,1:27:12,Negativo
+R3-20190514,Dibattito,FALSE,"Albanesi, Buffagni, Belpietro, Scanzi","conflitto politico e governativo, lavoro e disoccupazione, scandali, occupazioni, sicurezza e giustizia, immigrazione",1:46:59,2:27:07,
+R3-20190514,Dibattito,TRUE,"Albanesi, Buffagni, Belpietro, Scanzi",elezioni ue e stabilità governativa,2:02:30,2:09:55,Neutro
+R3-20190521,Intervista singola,FALSE,Corona,"intenzioni voto ue, clima e ambiente",0:05:08,0:21:40,
+R3-20190521,Intervista singola,TRUE,Corona,"intenzioni voto ue, schieramenti PE",0:05:08,0:11:00,Neutro
+R3-20190521,Intervista singola,FALSE,Cacciari,"conflitto politico e governativo, economia e finanza, immigrazione",0:21:42,0:41:25,
+R3-20190521,Intervista singola,TRUE,Cacciari,"valori europei, politica di immigrazione comunitaria",0:32:39,0:37:00,Positivo
+R3-20190521,Dibattito,FALSE,"Salvini, Scanzi, Brambilla","sicurezza e giustizia, immigrazione, occupazioni, scandali, conflitto politico e governativo",0:41:30,1:24:01,
+R3-20190521,Dibattito,TRUE,Salvini,"politica di immigrazione comunitaria, elezioni ue e stabilità governativa, normative ue, politica economica e commerciale ue",1:05:40,1:13:50,Negativo
+R3-20190521,Dibattito,FALSE,"Zingaretti, Meli, Cappellini","economia e finanza, conflitto politico e governativo, occupazioni, scuola, libertà",1:24:30,1:49:50,
+R3-20190521,Dibattito,TRUE,Cappellini,elezioni ue e stabilità governativa,1:32:01,1:33:59,Neutro
+R3-20190521,Servizio,TRUE,Bonanno,"schieramenti PE, diritti civili",1:50:00,1:50:43,Positivo
+R3-20190521,Servizio,TRUE,Adinolfi,"schieramenti PE, valori europei, famiglia",1:50:44,1:51:02,Positivo
+R3-20190521,Servizio,TRUE,,"verdi, clima e ambiente, schieramenti PE",1:51:03,1:51:33,Positivo
+R3-20190521,Servizio,TRUE,Venturini,schieramenti PE,1:51:33,1:51:57,Positivo
+R3-20190521,Servizio,TRUE,Ceriello,"schieramenti PE, diritti animali",1:51:58,1:52:23,Positivo
+R3-20190521,Servizio,TRUE,Rizzo,politica economica e commerciale ue,1:52:24,1:52:45,Negativo
+R3-20190521,Servizio,TRUE,Provenzale,"schieramenti PE, politica economica e commerciale ue",1:52:46,1:53:11,Negativo
+R3-20190521,Intervista singola,FALSE,Meloni,"economia e finanza, tasse, conflitto politico e governativo",1:53:59,2:08:24,
+R3-20190521,Intervista singola,TRUE,Meloni,"elezioni ue e stabilità governativa, schieramenti PE, normative ue, confronto paesi ue, politica di immigrazione comunitaria",1:55:56,2:05:16,Negativo
+R3-20190521,Dibattito,FALSE,"Friedman, Buffagni, Forchielli","economia e finanza, tasse, conflitto politico e governativo",2:08:28,2:33:37,
+R3-20190521,Dibattito,TRUE,Friedman,politica economica e commerciale ue,2:15:56,2:17:20,Positivo
+M4-20190307,Intervista singola,FALSE,Salvini,"economia e finanza, immigrazione, sicurezza e giustizia, infrastrutture, TAV, lavoro e disoccupazione, occupazioni",0:04:50,1:01:32,
+M4-20190307,Intervista singola,TRUE,Salvini,intenzioni voto ue,0:50:32,0:55:20,Negativo
+M4-20190307,Intervista singola,FALSE,Bonometti,"economia e finanza, tasse, lavoro e disoccupazione",1:02:23,1:09:19,
+M4-20190307,Dibattito,FALSE,"Buffagni, Gelmini, Fagnani","infrastrutture, TAV, occupazioni, conflitto politico e governativo, lavoro e disoccupazione",1:10:11,1:50:00,
+M4-20190307,Dibattito,FALSE,"Scampini, Fagnani, Amicone, Roma","sicurezza e giustizia, prostituzione",1:51:47,2:33:14,
+M4-20190307,Dibattito,FALSE,"Rasio, Salvo, Radic, Rodriguez, Barbati","economia e finanza, clima e ambiente",2:33:20,2:59:04,
+M4-20190307,Dibattito,TRUE,Barbati,normative ue,2:41:38,2:43:13,Positivo
+M4-20190314,Intervista singola,FALSE,Berlusconi,"conflitto politico e governativo, lavoro e disoccupazione, economia e finanza, tasse, scandali, occupazioni, infrastrutture, TAV",0:06:48,0:35:40,
+M4-20190314,Intervista singola,TRUE,Berlusconi,PESC,0:34:31,0:35:40,Positivo
+M4-20190314,Dibattito,FALSE,"Durigon, Giordano, Carnevale-Maffè, Morani","pensioni, lavoro e disoccupazione",0:36:11,1:01:50,
+M4-20190314,Dibattito,FALSE,"Maniero, Wu, Giordano, Capone","economia e finanza, prostituzione, sicurezza e giustizia",1:01:54,1:25:18,
+M4-20190314,Dibattito,TRUE,Capone,normative ue,1:11:55,1:13:20,Positivo
+M4-20190314,Dibattito,TRUE,Maniero,confronto paesi ue,1:21:51,1:22:08,Negativo
+M4-20190314,Dibattito,FALSE,"Fagnani, Cruciani, Luxuria, Adinolfi","scandali, sicurezza e giustizia",1:25:20,1:56:04,
+M4-20190314,Dibattito,FALSE,"Adinolfi, Luxuria, Manca, Meluzzi, Agosti","scandali, sicurezza e giustizia",1:56:07,2:55:05,
+M4-20190321,Intervista singola,FALSE,Di Maio,"sicurezza e giustizia, immigrazione, cittadinanza, lavoro e disoccupazione, famiglia, conflitto politico e governativo",0:02:54,0:42:40,
+M4-20190321,Intervista singola,FALSE,Salvini,"sicurezza e giustizia, razzismo, cittadinanza, famiglia, immigrazione",0:42:45,1:04:24,
+M4-20190321,Dibattito,FALSE,"Fagnani, Sallusti, Zerbilli, Bechis, Mussolini, Malpezzi","sicurezza e giustizia, immigrazione, razzismo",1:04:25,1:48:18,
+M4-20190321,Dibattito,FALSE,"Donazzan, Trapanese, Adinolfi, De Mari, Bergamini, Malpezzi, Cecchi Paone","diritti civili, famiglia",1:48:40,2:53:19,
+M4-20190328,Intervista singola,FALSE,Meloni,"conflitto politico e governativo, cittadinanza, sicurezza e giustizia, legittima difesa, famiglia, diritti civili",0:01:16,0:18:30,
+M4-20190328,Intervista singola,TRUE,Meloni,proposte ue,0:08:50,0:10:24,Positivo
+M4-20190328,Dibattito,FALSE,"Giordano, Facchinetti, Fedriga, Di Bartolomei, Ricci, Fagnani","sicurezza e giustizia, legittima difesa",0:18:34,1:38:45,
+M4-20190328,Dibattito,FALSE,"Davi, Coghe, Cattaneo, Comi, Morani, De Mari","libertà, diritti civili, famiglia",1:57:00,2:41:18,
+M4-20190404,Intervista singola,FALSE,Landini,"lavoro e disoccupazione, economia e finanza",0:07:20,0:20:53,
+M4-20190404,Dibattito,FALSE,"Siri, Librandi, Belpietro","economia e finanza, tasse, lavoro e disoccupazione, ",0:21:00,0:55:00,
+M4-20190404,Dibattito,FALSE,"Giordano, Fusani, De Mari, Ravetto, Rotta, Donzelli",sicurezza e giustizia,0:55:03,1:57:35,
+M4-20190404,Dibattito,FALSE,"Giordano, Fagnani, Zuinisi, Castaldo, Scotto, Mughini, Donzelli","razzismo, occupazioni",1:57:41,2:55:29,
+M4-20190404,Dibattito,TRUE,"Giordano, Fagnani, Zuinisi, Castaldo, Scotto, Mughini, Donzelli",fondi ue,2:40:03,2:42:00,Positivo
+M4-20190411,Dibattito,FALSE,"Fagnani, Ceccardi, Toscani, Maglie, Moretti, Brosio, Ronzulli, Bonafede","razzismo, immigrazione, occupazioni, sicurezza e giustizia ",0:10:00,1:05:49,
+M4-20190411,Dibattito,FALSE,"Belpietro, Moretti, Ronzulli, Laqrichat","lavoro e disoccupazione, famiglia",1:07:31,1:30:26,
+M4-20190411,Dibattito,FALSE,"Fiano, Parietti, Mussolini, Bacconeri, Scampini, Formaggio, Belpietro","occupazioni, razzismo, fascismo",1:30:38,2:10:39,
+M4-20190411,Dibattito,FALSE,"Cruciani, Martani, Squillo, Vissani, De Mari, Cassano",alimentazione,2:12:11,2:50:08,
+M4-20190418,Intervista singola,FALSE,Di Maio,"conflitto politico e governativo, sanità, scandali, economia e finanza",0:01:20,0:31:40,
+M4-20190418,Dibattito,FALSE,"Senaldi, Morelli, Fusani, Bonafè","economia e finanza, tasse ",0:31:32,0:52:00,
+M4-20190418,Dibattito,TRUE,Morelli,politica economica e commerciale ue,0:46:30,0:50:54,Negativo
+M4-20190418,Dibattito,FALSE,"Senaldi, Fusani, Facchinetti, Mallegni, De Mari, Casamonica","sicurezza e giustizia, occupazioni",0:52:02,1:35:39,
+M4-20190418,Dibattito,FALSE,"Cruciani, Giarrusso, Librandi, Del Noce","pensioni, economia e finanza, tasse",1:35:40,2:05:00,
+M4-20190418,Dibattito,FALSE,"Staller, Sgarbi, Cruciani, Librandi, Crocetta","pensioni, economia e finanza, tasse",2:05:00,2:40:50,
+M4-20190502,Dibattito,FALSE,"Cruciani, Borgonzoni, Morani, De Blanck, Fagnani, Diaferia, Corrao","sicurezza e giustizia, legittima difesa, immigrazione",0:04:29,0:46:10,
+M4-20190502,Intervista singola,FALSE,Tajani,"conflitto politico e governativo, economia e finanza, lavoro e disoccupazione, tasse, scandali",0:46:20,1:06:01,
+M4-20190502,Intervista singola,TRUE,Tajani,"politica economica e commerciale ue, normative ue, fondi ue",0:46:20,0:53:39,Positivo
+M4-20190502,Dibattito,FALSE,"Santanchè, Scampini, Belpietro, Laforgia, Simone Di Stefano, De Mari","sicurezza e giustizia, fascismo",1:06:35,1:41:30,
+M4-20190502,Dibattito,FALSE,"Parietti, Mussolini, Belpietro, Majorino, Formaggio","sicurezza e giustizia, fascismo, democrazia",1:42:16,2:43:00,
+M4-20190509,Intervista singola,FALSE,Di Maio,"occupazioni, diritti civili, lavoro e disoccupazione, droga",0:04:58,0:19:14,
+M4-20190509,Intervista singola,TRUE,Di Maio,"normative ue, proposte ue, intenzioni voto ue",0:14:53,0:17:17,Positivo
+M4-20190509,Dibattito,FALSE,"Giordano, Fagnani, De Mari, De Micheli, Comi","occupazioni, sicurezza e giustizia",0:19:27,0:41:50,
+M4-20190509,Intervista singola,FALSE,Salvini,"sicurezza e giustizia, occupazioni, droga, economia e finanza, tasse, fascismo, scandali",0:43:44,1:02:53,
+M4-20190509,Intervista singola,TRUE,Salvini,"normative ue, politica economica e commerciale ue, proposte ue",0:54:00,0:56:48,Negativo
+M4-20190509,Dibattito,FALSE,"Giordano, Buffagni, Plateroti, De Micheli, Merola, Comi","economia e finanza, tasse, scandali",1:03:00,1:37:15,
+M4-20190509,Dibattito,TRUE,"Giordano, Buffagni, Plateroti, De Micheli, Merola, Comi","normative ue, confronto paesi ue",1:22:23,1:24:30,Negativo
+M4-20190509,Dibattito,FALSE,"Cruciani, Cecchi Paone, Carofalo, Giordano, Sardone, Ricciarelli, Odifreddi, Rozza","sicurezza e giustizia, immigrazione, droga, legittima difesa, fascismo",1:39:57,2:49:29,
+M4-20190509,Dibattito,TRUE,"Cruciani, Cecchi Paone, Carofalo, Giordano, Sardone, Ricciarelli, Odifreddi, Rozza","normative ue, politica di immigrazione comunitaria",2:16:25,2:20:00,Negativo
+M4-20190516,Intervista singola,FALSE,Di Maio,"occupazioni, sicurezza e giustizia, economia e finanza, lavoro e disoccupazione, tasse",0:05:47,0:30:03,
+M4-20190516,Intervista singola,TRUE,Di Maio,normative ue,0:10:05,0:11:13,Negativo
+M4-20190516,Intervista singola,FALSE,Meloni,"occupazioni, sicurezza e giustizia, economia e finanza, conflitto politico e governativo",0:30:08,0:47:24,
+M4-20190516,Intervista singola,TRUE,Meloni,"politica economica e commerciale ue, normative ue",0:45:01,0:47:24,Negativo
+M4-20190516,Intervista singola,TRUE,Meloni,"politica economica e commerciale ue, normative ue",0:37:03,0:41:25,Negativo
+M4-20190516,Intervista singola,FALSE,Berlusconi,"pensioni, politica estera, conflitto politico e governativo, tasse, libertà, economia e finanza, immigrazione",0:50:17,1:11:58,
+M4-20190516,Intervista singola,TRUE,Berlusconi,"PESC, politica di immigrazione comunitaria",0:50:17,0:55:12,Positivo
+M4-20190516,Intervista singola,TRUE,Berlusconi,"PESC, politica di immigrazione comunitaria, schieramenti PE, elezioni ue e stabilità governativa, politica economica e commerciale ue",1:02:38,1:09:02,Positivo
+M4-20190516,Dibattito,FALSE,"Giordano, Fagnani, Tinagli, Ferrero, Alzetta, Rigoldi","occupazioni, sicurezza e giustizia",1:11:58,1:52:23,
+M4-20190516,Intervista singola,FALSE,Salvini,"conflitto politico e governativo, sicurezza e giustizia, immigrazione, economia e finanza, tasse, scandali",1:52:24,2:11:17,
+M4-20190516,Intervista singola,TRUE,Salvini,"politica di immigrazione comunitaria, politica economica e commerciale ue",1:58:03,1:59:11,Negativo
+M4-20190516,Dibattito,FALSE,"Cruciani, Adzovic, Fusani, Folliero, Librandi, Donazzan","occupazioni, case popolari",2:11:20,2:50:40,
+M4-20190516,Servizio,TRUE,Summonte,"schieramenti PE, proposte ue",2:50:40,2:54:27,Positivo
+M4-20190523,Dibattito,FALSE,"Belpietro, Fagnani, Morelli, Moretti, Nevola","conflitto politico e governativo, razzismo",0:35:20,0:49:02,
+M4-20190523,Servizio,TRUE,Fogar,cittadini e ue,0:49:13,0:51:15,Neutro
+M4-20190523,Intervista singola,FALSE,Berlusconi,"politica estera, conflitto politico e governativo, ",0:51:16,1:18:09,
+M4-20190523,Intervista singola,TRUE,Berlusconi,"elezioni ue e stabilità governativa, PESC, schieramenti PE, politica di immigrazione comunitaria",0:51:16,0:57:24,Positivo
+M4-20190523,Intervista singola,TRUE,Berlusconi,"elezioni ue e stabilità governativa, PESC, schieramenti PE, politica di immigrazione comunitaria",1:05:44,1:12:31,Positivo
+M4-20190523,Intervista singola,FALSE,Calenda,"occupazioni, conflitto politico e governativo, scandali, economia e finanza, tasse, immigrazione, scuola",1:20:40,1:40:00,
+M4-20190523,Intervista singola,TRUE,Calenda,"normative ue, schieramenti PE, proposte ue",1:20:40,1:22:45,Positivo
+M4-20190523,Servizio,TRUE,,normative ue,1:18:30,1:20:40,Negativo
+M4-20190523,Dibattito,FALSE,"Santanchè, Cecchi Paone, Cruciani, Piller, Rizzo, Scampini, Trefiletti",economia e finanza,1:40:01,2:20:40,
+M4-20190523,Dibattito,TRUE,Santanchè,"normative ue, politica economica e commerciale ue",1:46:00,1:50:11,Negativo
+M4-20190523,Dibattito,TRUE,Santanchè,,2:01:45,2:06:54,Negativo
+M4-20190523,Dibattito,TRUE,Rizzo,diritti umani,2:06:55,2:10:08,Negativo
+M4-20190523,Dibattito,TRUE,Santanchè,,2:10:08,2:20:40,Negativo
+M4-20190523,Dibattito,TRUE,Santanchè,politica di immigrazione comunitaria,2:30:40,2:31:45,Negativo
+M4-20190523,Dibattito,FALSE,"Senaldi, Cecchi Paone, Biancalani, Cruciani, Scampini, Santanchè","sicurezza e giustizia, immigrazione",2:20:44,2:45:23,
+M4-20190523,Dibattito,TRUE,"Senaldi, Santanchè","confronto paesi ue, politica di immigrazione comunitaria",2:30:40,2:31:45,Negativo
+M4-20190523,Servizio,TRUE,,come si vota per il PE,2:49:27,2:50:48,Neutro
+M4-20190523,Servizio,TRUE,Fratoianni,schieramenti PE,2:50:48,2:51:38,Positivo
+M4-20190523,Servizio,TRUE,Della Vedova,"schieramenti PE, normative ue",2:51:38,2:52:04,Positivo
+M4-20190523,Servizio,TRUE,Gheller,normative ue,2:52:05,2:52:24,Positivo
+M4-20190523,Servizio,TRUE,Mauro,schieramenti PE,2:52:25,2:52:50,Positivo
+M4-20190523,Servizio,TRUE,Rizzo,politica economica e commerciale ue,2:52:51,2:53:00,Negativo
+M4-20190523,Servizio,TRUE,Simone Di Stefano,politica economica e commerciale ue,2:53:01,2:53:56,Negativo
+R3-20190528,Intervista singola,TRUE,Corona,risultati europee,0:04:00,0:08:00,Neutro
+R3-20190528,Servizio,TRUE,,risultati europee,0:09:20,0:13:10,Neutro
+R3-20190528,Intervista singola,TRUE,Corona,elezioni ue e stabilità governativa,0:13:12,0:15:30,Neutro
+R3-20190528,Intervista singola,TRUE,Corona,risultati europee,0:15:35,0:27:22,Neutro
+R3-20190528,Intervista singola,FALSE,Corona,"lavoro e disoccupazione, sicurezza e giustizia, clima e ambiente, conflitto politico e governativo",0:27:22,0:37:59,
+R3-20190528,Intervista singola,FALSE,Meloni,conflitto politico e governativo,0:38:20,0:48:56,
+R3-20190528,Intervista singola,TRUE,Meloni,"risultati europee, schieramenti PE, politica di immigrazione comunitaria",0:48:56,0:50:54,Neutro
+R3-20190528,Dibattito,TRUE,"De Bortoli, D'alema","risultati europee, istituzioni ue e democrazia",0:51:12,0:58:40,Positivo
+R3-20190528,Dibattito,FALSE,"De Bortoli, D'alema",conflitto politico e governativo,0:58:41,1:00:20,
+R3-20190528,Dibattito,TRUE,"De Bortoli, D'alema",crisi economica ue,1:00:40,1:01:01,Negativo
+R3-20190528,Dibattito,TRUE,"De Bortoli, D'alema","risultati europee, elezioni ue e stabilità governativa, brexit, istituzioni ue e democrazia",1:00:40,1:18:30,Positivo
+R3-20190528,Dibattito,TRUE,"Scanzi, Belpietro, Forchielli","risultati europee, elezioni ue e stabilità governativa, brexit, politica economica e commerciale ue, fondi ue",1:23:15,1:51:23,Neutro
+R3-20190528,Servizio,TRUE,,brexit,1:18:31,1:22:00,Positivo
+R3-20190528,Dibattito,FALSE,"Borgonzoni, Nardella, Sangiuliano, Gomez","conflitto politico e governativo, tasse, infrastrutture, TAV, immigrazione, sicurezza e giustizia",1:57:40,2:29:25,
+M4-20190530,Servizio,FALSE,,Elettori,0:05:30,0:09:17,
+M4-20190530,Intervista singola,FALSE,Salvini,"conflitto politico e governativo, tasse",0:09:18,0:23:44,
+M4-20190530,Intervista singola,TRUE,Salvini,"schieramenti PE, risultati europee, istituzioni ue e democrazia, confronto paesi ue",0:23:50,0:28:47,Positivo
+M4-20190530,Intervista singola,FALSE,Salvini,"TAV, infrastrutture, economia e finanza, conflitto politico e governativo, droga, immigrazione, sicurezza e giustizia",0:28:48,0:51:20,
+M4-20190530,Intervista singola,TRUE,Salvini,fondi ue,0:32:34,0:33:30,Positivo
+M4-20190530,Servizio,FALSE,,movimento 5 stelle,0:51:36,0:54:40,
+M4-20190530,Dibattito,TRUE,"Belpietro, Sallusti, Borghi, Gualmini, Padullà, Ronzulli, Martinelli","risultati europee, schieramenti PE",1:24:29,1:25:05,Neutro
+M4-20190530,Dibattito,TRUE,"Belpietro, Sallusti, Borghi, Gualmini, Padullà, Ronzulli, Martinelli","risultati europee, schieramenti PE",1:30:00,1:33:07,Neutro
+M4-20190530,Dibattito,FALSE,"Belpietro, Sallusti, Borghi, Gualmini, Padullà, Ronzulli, Martinelli","conflitto politico e governativo, lavoro e disoccupazione",0:53:43,1:56:27,
+M4-20190530,Dibattito,TRUE,"Cruciani, Orsini, Donzelli, Belpietro, Antonelli, Majorino, Smaila","politica di immigrazione comunitaria, confronto paesi ue, risultati europee",2:04:30,2:05:00,Neutro
+M4-20190530,Dibattito,FALSE,"Cruciani, Orsini, Donzelli, Belpietro, Antonelli, Majorino, Smaila","immigrazione, sicurezza e giustizia, lavoro e disoccupazione, razzismo",1:57:06,2:59:24,
