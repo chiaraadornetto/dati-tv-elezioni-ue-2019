@@ -72,6 +72,8 @@ end | Tempo fine intervento | Time | 1:17:28
 sentiment | Sentiment attribbuito all'intervento | String | Neutro
 
 ## License
+Quest'opera è distribuita con Licenza [Creative Commons Attribuzione 4.0 Internazionale](http://creativecommons.org/licenses/by/4.0/).
+
 <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="150"/></a>
 
 ## Contributors
