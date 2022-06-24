@@ -20,8 +20,8 @@ licenses:
     title: Creative Commons Attribution 4.0
     path: https://creativecommons.org/licenses/by/4.0/
 resources:
-  - path: data/interventi.csv
-    name: interventi
+  - name: interventi
+    path: data/interventi.csv    
     profile: tabular-data-resource
     scheme: file
     format: csv
@@ -29,42 +29,42 @@ resources:
     encoding: utf-8
     schema:
       fields:
-        - type: string
-          name: id_contenuto
+        - name: id_contenuto
+          type: string          
           title: ID del contenuto
           description: Codice identificativo del contenuto trasmesso
-        - type: string
-          name: id_puntata
+        - name: id_puntata
+          type: string          
           title: ID della puntata
           description: Codice identificativo della puntata
-        - type: string
-          name: tipologia
+        - name: tipologia
+          type: string          
           description: Tipologia del contenuto trasmesso
           constraints:
             enum:
               - Dibattito
               - Intervista singola
               - Servizio
-        - type: boolean
-          name: UE
+        - name: UE
+          type: boolean          
           description: Indicatore dei contenuti legati all'Unione Europea
-        - type: string
-          name: id_ospite
+        - name: id_ospite
+          type: string          
           title: ID ospite
           description: Codici identificativi ospiti separati da virgole
-        - type: string
-          name: keyword
+        - name: keyword
+          type: string
           description: Parole chiave degli argomenti trattati
-        - type: time
-          name: start
+        - name: start
+          type: time
+          format: default
           description: Coordinata temporale inizio intervento
+        - name: end
+          type: time
           format: default
-        - type: time
-          name: end
           description: Coordinata temporale fine intervento
-          format: default
-        - type: string
-          name: sentiment
+        - name: sentiment
+          type: string          
           description: Sentiment attribuito all'intervento
           constraints:
             enum:
@@ -84,8 +84,8 @@ resources:
 #            fields:
 #              - id_ospite
 #            resource: ospiti
-  - path: data/ospiti.csv
-    name: ospiti
+  - name: ospiti
+    path: data/ospiti.csv    
     profile: tabular-data-resource
     scheme: file
     format: csv
@@ -93,24 +93,24 @@ resources:
     encoding: utf-8
     schema:
       fields:
-        - type: string
-          name: id_ospite
+        - name: id_ospite
+          type: string          
           title: ID dell'ospite
           description: Codice identificativo dell'ospite
-        - type: string
-          name: nome
+        - name: nome
+          type: string          
           title: Nome
-        - type: string
-          name: cognome
+        - name: cognome
+          type: string          
           title: Cognome
-        - type: string
-          name: titolo
+        - name: titolo
+          type: string          
           description: Professione o attività svolta
-        - type: string
-          name: appartenenza
+        - name: appartenenza
+          type: string          
           description: Testa giornalistica o partito politico di appartenenza
-  - path: data/puntate.csv
-    name: puntate
+  - name: puntate
+    path: data/puntate.csv
     profile: tabular-data-resource
     scheme: file
     format: csv
@@ -118,20 +118,20 @@ resources:
     encoding: utf-8
     schema:
       fields:
-        - type: string
-          name: id_puntata
+        - name: id_puntata
+          type: string          
           title: ID della puntata
           description: Codice identificativo della puntata
-        - type: string
-          name: trasmissione
+        - name: trasmissione
+          type: string          
           description: Denominazione della trasmissione
-        - type: date
-          name: data
+        - name: data
+          type: date          
           description: Data della messa in onda della puntata
-        - type: time
-          name: durata_puntata
+        - name: durata_puntata
+          type: time
+          format: default        
           description: Durata della puntata
-          format: default
       foreignKeys:
         - fields:
             - trasmissione
@@ -139,8 +139,8 @@ resources:
             fields:
               - trasmissione
             resource: trasmissioni
-  - path: data/trasmissioni.csv
-    name: trasmissioni
+  - name: trasmissioni
+    path: data/trasmissioni.csv    
     profile: tabular-data-resource
     scheme: file
     format: csv
@@ -148,17 +148,17 @@ resources:
     encoding: utf-8
     schema:
       fields:
-        - type: string
-          name: trasmissione
+        - name: trasmissione
+          type: string
           description: Denominazione della trasmissione
-        - type: string
-          name: rete
+        - name: rete
+          type: string          
           description: Denominazione della rete televisiva
-        - type: string
-          name: canale
+        - name: canale
+          type: string
           description: Denominazione del canale televisivo
-        - type: integer
-          name: numero
+        - name: numero
+          type: integer          
           description: Numerazione LCN nazionale dei canali TV
 profile: data-package
 
