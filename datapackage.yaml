@@ -2,9 +2,9 @@
 # metadata: data/interventi.csv data/ospiti.csv data/puntate.csv data/trasmissioni.csv
 # --------
 
-name: TBD
+name: temp
 title: TBD
-description: TBD
+description: Dataset allegato alla tesi triennale di Chiara Adornetto
 contributors:
   - title: Chiara Adornetto
     email: chiara.adornetto@tiscali.it
@@ -27,23 +27,50 @@ resources:
     schema:
       fields:
         - type: string
+          name: id_contenuto
+          title: ID del contenuto
+          description: Codice identificativo del contenuto trasmesso
+        - type: string
           name: id_puntata
+          title: ID della puntata
+          description: Codice identificativo della puntata
         - type: string
           name: tipologia
+          description: Tipologia del contenuto trasmesso
         - type: boolean
           name: UE
+          description: Indicatore dei contenuti legati all'Unione Europea
         - type: string
-          name: ospite
+          name: id_ospite
+          title: ID ospite
+          description: Codici identificativi ospiti separati da virgole
         - type: string
           name: keyword
-        - type: string
+          description: Parole chiave degli argomenti trattati
+        - type: time
           name: start
-        - type: string
+          description: Coordinata temporale inizio intervento
+          format: default
+        - type: time
           name: end
+          description: Coordinata temporale fine intervento
+          format: default
         - type: string
           name: sentiment
-        - type: string
-          name: durata_temp
+          description: Sentiment attribuito all'intervento
+      foreignKeys:
+        - fields:
+            - id_puntata
+          reference:
+            fields:
+              - id_puntata
+            resource: puntate
+#        - fields:
+#            - id_ospite
+#          reference:
+#            fields:
+#              - id_ospite
+#            resource: ospiti
   - path: data/ospiti.csv
     name: ospiti
     profile: tabular-data-resource
@@ -54,13 +81,21 @@ resources:
     schema:
       fields:
         - type: string
+          name: id_ospite
+          title: ID dell'ospite
+          description: Codice identificativo dell'ospite
+        - type: string
           name: nome
+          title: Nome
         - type: string
           name: cognome
+          title: Cognome
         - type: string
           name: titolo
+          description: Professione o attività svolta
         - type: string
           name: appartenenza
+          description: Testa giornalistica o partito politico di appartenenza
   - path: data/puntate.csv
     name: puntate
     profile: tabular-data-resource
@@ -72,12 +107,25 @@ resources:
       fields:
         - type: string
           name: id_puntata
+          title: ID della puntata
+          description: Codice identificativo della puntata
         - type: string
           name: trasmissione
+          description: Denominazione della trasmissione
         - type: date
           name: data
-        - type: string
+          description: Data della messa in onda della puntata
+        - type: time
           name: durata_puntata
+          description: Durata della puntata
+          format: default
+      foreignKeys:
+        - fields:
+            - trasmissione
+          reference:
+            fields:
+              - trasmissione
+            resource: trasmissioni
   - path: data/trasmissioni.csv
     name: trasmissioni
     profile: tabular-data-resource
@@ -89,11 +137,15 @@ resources:
       fields:
         - type: string
           name: trasmissione
+          description: Denominazione della trasmissione
         - type: string
           name: rete
+          description: Denominazione della rete televisiva
         - type: string
           name: canale
+          description: Denominazione del canale televisivo
         - type: integer
           name: numero
+          description: Numerazione LCN nazionale dei canali TV
 profile: data-package
 
