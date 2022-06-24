@@ -68,7 +68,7 @@ Field | Description | Type | Example
 -- | -- | -- | --
 id_contenuto | Codice identificativo del contenuto trasmesso | String | I52
 id_puntata | ID della puntata | String | R3-20190305
-tipologia | Tipologia dell'intervento | String | Intervista singola
+tipologia | Tipologia del contenuto (`Dibattito`,`Intervista singola`,`Servizio`) | String | Intervista singola
 UE | Indicatore degli interventi legati all'Unione Europea | Boolean | TRUE
 id_ospite | Codici identificativi ospiti separati da virgole `, ` | String | O25
 keyword | Parole chiave degli argomenti trattati | Testo | intenzioni voto ue
