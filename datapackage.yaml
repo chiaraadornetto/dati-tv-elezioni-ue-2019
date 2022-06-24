@@ -5,6 +5,9 @@
 name: temp
 title: TBD
 description: Dataset allegato alla tesi triennale di Chiara Adornetto
+temporal:
+  start: '2019-03-05'
+  end: '2019-05-30'
 contributors:
   - title: Chiara Adornetto
     email: chiara.adornetto@tiscali.it
