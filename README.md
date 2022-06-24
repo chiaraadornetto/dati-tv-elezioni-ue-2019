@@ -72,8 +72,8 @@ tipologia | Tipologia del contenuto (`Dibattito`,`Intervista singola`,`Servizio`
 UE | Indicatore degli interventi legati all'Unione Europea | Boolean | TRUE
 id_ospite | Codici identificativi ospiti separati da virgole `, ` | String | O25
 keyword | Parole chiave degli argomenti trattati | Testo | intenzioni voto ue
-start | Tempo inizio intervento | Time | 1:16:05
-end | Tempo fine intervento | Time | 1:17:28
+start | Coordinata temporale inizio intervento | Time | 1:16:05
+end | Coordinata temporale fine intervento | Time | 1:17:28
 sentiment | Sentiment attribuito all'intervento | String | Neutro
 
 ## License
