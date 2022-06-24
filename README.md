@@ -71,7 +71,7 @@ id_puntata | ID della puntata | String | R3-20190305
 tipologia | Tipologia del contenuto (`Dibattito`,`Intervista singola`,`Servizio`) | String | Intervista singola
 UE | Indicatore degli interventi legati all'Unione Europea | Boolean | TRUE
 id_ospite | Codici identificativi ospiti separati da virgole `, ` | String | O25
-keyword | Parole chiave degli argomenti trattati | Testo | intenzioni voto ue
+keyword | Parole chiave degli argomenti trattati | String | intenzioni voto ue
 start | Coordinata temporale inizio intervento | Time | 1:16:05
 end | Coordinata temporale fine intervento | Time | 1:17:28
 sentiment | Sentiment attribuito all'intervento | String | Neutro
