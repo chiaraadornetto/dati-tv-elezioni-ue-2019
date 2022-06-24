@@ -40,6 +40,11 @@ resources:
         - type: string
           name: tipologia
           description: Tipologia del contenuto trasmesso
+          constraints:
+            enum:
+              - Dibattito
+              - Intervista singola
+              - Servizio
         - type: boolean
           name: UE
           description: Indicatore dei contenuti legati all'Unione Europea
@@ -61,6 +66,11 @@ resources:
         - type: string
           name: sentiment
           description: Sentiment attribuito all'intervento
+          constraints:
+            enum:
+              - Positivo
+              - Negativo
+              - Neutro
       foreignKeys:
         - fields:
             - id_puntata
