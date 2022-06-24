@@ -1,5 +1,5 @@
 # tesi-chiara
-[![](https://img.shields.io/badge/frictionless-passing-green)](datapackage.yaml)
+[![](https://img.shields.io/badge/frictionless-passing-green)](datapackage.yaml) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 UE, Introduzione, Link alla tesi
 
