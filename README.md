@@ -13,7 +13,7 @@ root
 │   ├── 📄ospiti.csv
 │   └── 📄interventi.csv
 ├── 📄datapackage.yaml
-├── 📄LICENSE.md
+├── 📄LICENSE
 └── 📄README.md
 ```
 
