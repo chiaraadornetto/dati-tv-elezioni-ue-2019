@@ -18,9 +18,9 @@ root
 ```
 
 ## Data Structure
-I seguenti file sono stati descritti rispettando gli standard di frictinless data nel file datapackage.yaml
+I seguenti file sono stati descritti rispettando gli standard di [frictionless data](https://frictionlessdata.io/standards/) nel file [datapackage.yaml](datapackage.yaml)
 
-### 📄 [trasmissioni.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/trasmissioni.csv)
+### 📄 [trasmissioni.csv](data/trasmissioni.csv)
 
 - Path: `data/`
 - URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/trasmissioni.csv
@@ -34,7 +34,7 @@ rete | Denominazione della rete televisiva | String | Mediaset
 canale | Denominazione del canale televisivo | String | Rete 4
 numero | Numerazione LCN nazionale dei canali TV | Number | 4
 
-### 📄 [puntate.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/puntate.csv)
+### 📄 [puntate.csv](data/puntate.csv)
 
 - Path: `data/`
 - URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/puntate.csv
@@ -48,7 +48,7 @@ trasmissione | Denominazione della trasmissione | String | Dritto e Rovescio
 data | Data della messa in onda della puntata | Date (ISO 8601)  | 2019-03-07
 durata_puntata | Durata della puntata | Time | 2:53:19
 
-### 📄 [ospiti.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/ospiti.csv)
+### 📄 [ospiti.csv](data/ospiti.csv)
 
 - Path: `data/`
 - URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/ospiti.csv
@@ -63,7 +63,7 @@ cognome | Cognome | String | Senaldi
 titolo | Professione o attività svolta | String | Giornalista
 appartenenza | Testa giornalistica o Partito politico di appartenenza | String | Libero
 
-### 📄 [interventi.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/interventi.csv)
+### 📄 [interventi.csv](data/interventi.csv)
 
 - Path: `data/`
 - URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/interventi.csv
