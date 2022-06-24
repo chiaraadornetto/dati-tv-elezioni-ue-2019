@@ -46,7 +46,7 @@ Field | Description | Type | Example
 id_puntata | Codice identificativo della puntata | String | M4-20190307
 trasmissione | Denominazione della trasmissione | String | Dritto e Rovescio
 data | Data della messa in onda della puntata | Date (ISO 8601)  | 2019-03-07
-durata_puntata | Durata della puntata | Time | 2:53:19
+durata_puntata | Durata della puntata | Time | 02:53:19
 
 ### 📄 [ospiti.csv](data/ospiti.csv)
 
@@ -78,8 +78,8 @@ tipologia | Tipologia del contenuto (`Dibattito`,`Intervista singola`,`Servizio`
 UE | Indicatore degli interventi legati all'Unione Europea | Boolean | TRUE
 id_ospite | Codici identificativi ospiti separati da virgole `, ` | String | O25
 keyword | Parole chiave degli argomenti trattati | String | intenzioni voto ue
-start | Coordinata temporale inizio intervento | Time | 1:16:05
-end | Coordinata temporale fine intervento | Time | 1:17:28
+start | Coordinata temporale inizio intervento | Time | 01:16:05
+end | Coordinata temporale fine intervento | Time | 01:17:28
 sentiment | Sentiment attribuito all'intervento | String | Neutro
 
 ## License
