@@ -82,5 +82,7 @@ Quest'opera è distribuita con Licenza [Creative Commons Attribuzione 4.0 Intern
 <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="150"/></a>
 
 ## Contributors
-- Chiara Adornetto (author)
-- Dennis Angemi (maintainer)
+Name | Role | Email
+-- | -- | -- 
+Chiara Adornetto | Author | chiara.adornetto@tiscali.it
+Dennis Angemi | Maintainer | dennisangemi@gmail.com
