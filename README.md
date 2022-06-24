@@ -23,6 +23,7 @@ I seguenti file sono stati descritti rispettando gli standard di frictinless dat
 ### 📄 [trasmissioni.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/trasmissioni.csv)
 
 - Path: `data/`
+- URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/trasmissioni.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
@@ -36,6 +37,7 @@ numero | Numerazione LCN nazionale dei canali TV | Number | 4
 ### 📄 [puntate.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/puntate.csv)
 
 - Path: `data/`
+- URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/puntate.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
@@ -49,6 +51,7 @@ durata_puntata | Durata della puntata | Time | 2:53:19
 ### 📄 [ospiti.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/ospiti.csv)
 
 - Path: `data/`
+- URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/ospiti.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
@@ -63,6 +66,7 @@ appartenenza | Testa giornalistica o Partito politico di appartenenza | String |
 ### 📄 [interventi.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/interventi.csv)
 
 - Path: `data/`
+- URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/interventi.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
