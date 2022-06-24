@@ -24,7 +24,7 @@ I seguenti file sono stati descritti rispettando gli standard di frictinless dat
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
-field | description | Type | Example
+Field | Description | Type | Example
 -- | -- | -- | --
 trasmissione | Denominazione della trasmissione | String | Dritto e Rovescio
 rete | Denominazione della rete televisiva | String | Mediaset
@@ -37,11 +37,12 @@ numero | Numerazione LCN nazionale dei canali TV | Number | 4
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
-id_puntata | ID della puntata | String | M4-20190307
+Field | Description | Type | Example
 -- | -- | -- | --
+id_puntata | Codice identificativo della puntata | String | M4-20190307
 trasmissione | Denominazione della trasmissione | String | Dritto e Rovescio
-data | Data della messa in onda della puntata | Date | 2019-03-07
-durata_puntata | Durata della puntata | String | 2:53:19
+data | Data della messa in onda della puntata | Date (ISO 8601)  | 2019-03-07
+durata_puntata | Durata della puntata | Time | 2:53:19
 
 ### 📄 [ospiti.csv](https://github.com/dennisangemi/tesi-chiara/blob/main/data/ospiti.csv)
 
@@ -49,8 +50,10 @@ durata_puntata | Durata della puntata | String | 2:53:19
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
-nome | Nome | String | Pietro
+Field | Description | Type | Example
 -- | -- | -- | --
+id_ospite | Codice identificativo dell'ospite | String | O25
+nome | Nome | String | Pietro
 cognome | Cognome | String | Senaldi
 titolo | Professione o attività svolta | String | Giornalista
 appartenenza | Testa giornalistica o Partito politico di appartenenza | String | Libero
@@ -61,15 +64,17 @@ appartenenza | Testa giornalistica o Partito politico di appartenenza | String |
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
-id_puntata | ID della puntata | String | R3-20190305
+Field | Description | Type | Example
 -- | -- | -- | --
+id_contenuto | Codice identificativo del contenuto trasmesso | String | I52
+id_puntata | ID della puntata | String | R3-20190305
 tipologia | Tipologia dell'intervento | String | Intervista singola
 UE | Indicatore degli interventi legati all'Unione Europea | Boolean | TRUE
-ospite | Cognome degli ospiti | Testo | Noto
+id_ospite | Codici identificativi ospiti separati da virgole `, ` | String | O25
 keyword | Parole chiave degli argomenti trattati | Testo | intenzioni voto ue
 start | Tempo inizio intervento | Time | 1:16:05
 end | Tempo fine intervento | Time | 1:17:28
-sentiment | Sentiment attribbuito all'intervento | String | Neutro
+sentiment | Sentiment attribuito all'intervento | String | Neutro
 
 ## License
 Quest'opera è distribuita con Licenza [Creative Commons Attribuzione 4.0 Internazionale](http://creativecommons.org/licenses/by/4.0/).
