@@ -1,6 +1,8 @@
 # tesi-chiara
 UE, Introduzione, Link alla tesi
 
+I dati presenti in questo repository coprono l'arco di tempo che va da da `2019-03-05` a `2019-05-30`.
+
 ## Repository structure
 
 ```
