@@ -25,7 +25,7 @@ I seguenti file sono stati descritti rispettando gli standard di [frictionless d
 ### 📄 [trasmissioni.csv](data/trasmissioni.csv)
 
 - Path: `data/`
-- URL (`WIP`): https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/trasmissioni.csv
+- URL: https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/trasmissioni.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
@@ -39,7 +39,7 @@ numero | Numerazione LCN nazionale dei canali TV | Number | 4
 ### 📄 [puntate.csv](data/puntate.csv)
 
 - Path: `data/`
-- URL (`WIP`): https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/puntate.csv
+- URL: https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/puntate.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
@@ -53,7 +53,7 @@ durata_puntata | Durata della puntata | Time | 02:53:19
 ### 📄 [ospiti.csv](data/ospiti.csv)
 
 - Path: `data/`
-- URL (`WIP`): https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/ospiti.csv
+- URL: https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/ospiti.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
@@ -68,7 +68,7 @@ appartenenza | Testa giornalistica o Partito politico di appartenenza | String |
 ### 📄 [interventi.csv](data/interventi.csv)
 
 - Path: `data/`
-- URL (`WIP`): https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/interventi.csv
+- URL: https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/interventi.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
