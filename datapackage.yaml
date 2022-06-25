@@ -2,9 +2,9 @@
 # metadata: data/contenuti.csv data/ospiti.csv data/puntate.csv data/trasmissioni.csv
 # --------
 
-name: data-tv-italiana-ue
-title: Dati relativi alla tesi "Comunicare l'Unione Europea"
-description: Analisi della copertura delle elezioni europee del 2019 nella televisione italiana. Dataset allegato alla tesi triennale di Chiara Adornetto
+name: dati-tv-elezioni-ue-2019
+title: Comunicare l'Unione Europea
+description: Analisi della copertura delle elezioni europee del 2019 nella televisione italiana (contenuti trasmessi da "#cartabianca" e "Dritto e Rovescio"). Dataset allegato alla tesi triennale di Chiara Adornetto
 temporal:
   start: '2019-03-05'
   end: '2019-05-30'
