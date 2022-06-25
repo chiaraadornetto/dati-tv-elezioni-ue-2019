@@ -1,5 +1,6 @@
 # Comunicare l'Unione Europea
-[![](https://img.shields.io/badge/frictionless-passing-green)](datapackage.yaml) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![](https://img.shields.io/badge/frictionless-passing-green)](datapackage.yaml) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/503932214.svg)](https://zenodo.org/badge/latestdoi/503932214)
+
 
 Dati sull'analisi della copertura delle elezioni europee del 2019 nella televisione italiana (contenuti trasmessi da "#cartabianca" e "Dritto e Rovescio"). Dataset allegato alla tesi triennale di Chiara Adornetto
 
