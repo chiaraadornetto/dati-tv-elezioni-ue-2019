@@ -1,9 +1,9 @@
-# tesi-chiara
+# Comunicare l'Unione Europea
 [![](https://img.shields.io/badge/frictionless-passing-green)](datapackage.yaml) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-UE, Introduzione, Link alla tesi
+Dati sull'analisi della copertura delle elezioni europee del 2019 nella televisione italiana (contenuti trasmessi da "#cartabianca" e "Dritto e Rovescio"). Dataset allegato alla tesi triennale di Chiara Adornetto
 
-I dati presenti in questo repository coprono l'arco di tempo che va da da `2019-03-05` a `2019-05-30`.
+I dati presenti in questo repository coprono l'arco di tempo che va da `2019-03-05` a `2019-05-30`.
 
 ## Repository structure
 
@@ -25,7 +25,7 @@ I seguenti file sono stati descritti rispettando gli standard di [frictionless d
 ### 📄 [trasmissioni.csv](data/trasmissioni.csv)
 
 - Path: `data/`
-- URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/trasmissioni.csv
+- URL (`WIP`): https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/trasmissioni.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
@@ -39,7 +39,7 @@ numero | Numerazione LCN nazionale dei canali TV | Number | 4
 ### 📄 [puntate.csv](data/puntate.csv)
 
 - Path: `data/`
-- URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/puntate.csv
+- URL (`WIP`): https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/puntate.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
@@ -53,7 +53,7 @@ durata_puntata | Durata della puntata | Time | 02:53:19
 ### 📄 [ospiti.csv](data/ospiti.csv)
 
 - Path: `data/`
-- URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/ospiti.csv
+- URL (`WIP`): https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/ospiti.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
@@ -68,7 +68,7 @@ appartenenza | Testa giornalistica o Partito politico di appartenenza | String |
 ### 📄 [interventi.csv](data/interventi.csv)
 
 - Path: `data/`
-- URL (`WIP`): https://raw.githubusercontent.com/dennisangemi/tesi-chiara/main/data/interventi.csv
+- URL (`WIP`): https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/interventi.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
