@@ -1,23 +1,24 @@
 {
     "description": "<p>Dati sull'analisi della copertura delle elezioni europee del 2019 nella televisione italiana (contenuti trasmessi da \"#cartabianca\" e \"Dritto e Rovescio\"). Dataset allegato alla tesi triennale di Chiara Adornetto</p>", 
-    "license": "other-open", 
+    "license": "CC-BY-4.0", 
     "title": "chiaraadornetto/dati-tv-elezioni-ue-2019: Dati sull'analisi della copertura delle elezioni europee del 2019 nella televisione italiana", 
-    "version": "v1.0", 
+    "version": "v1.1", 
     "upload_type": "dataset", 
     "publication_date": "2022-06-25", 
     "creators": [
         {
-            "name": "Chiara Adornetto"
+            "name": "Adornetto, Chiara"
         }, 
         {
-            "name": "Dennis Angemi"
+            "name": "Angemi, Dennis"
         }
     ], 
+    "keywords": ["UE", "Social sciences", "Elections"],
     "access_right": "open", 
     "related_identifiers": [
         {
             "scheme": "url", 
-            "identifier": "https://github.com/chiaraadornetto/dati-tv-elezioni-ue-2019/tree/v1.2", 
+            "identifier": "https://github.com/chiaraadornetto/dati-tv-elezioni-ue-2019/tree/v1.1", 
             "relation": "isSupplementTo"
         }, 
         {
