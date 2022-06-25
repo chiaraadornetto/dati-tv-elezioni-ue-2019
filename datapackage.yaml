@@ -1,5 +1,5 @@
 # --------
-# metadata: data/interventi.csv data/ospiti.csv data/puntate.csv data/trasmissioni.csv
+# metadata: data/contenuti.csv data/ospiti.csv data/puntate.csv data/trasmissioni.csv
 # --------
 
 name: temp
@@ -20,8 +20,8 @@ licenses:
     title: Creative Commons Attribution 4.0
     path: https://creativecommons.org/licenses/by/4.0/
 resources:
-  - name: interventi
-    path: data/interventi.csv    
+  - name: contenuti
+    path: data/contenuti.csv    
     profile: tabular-data-resource
     scheme: file
     format: csv

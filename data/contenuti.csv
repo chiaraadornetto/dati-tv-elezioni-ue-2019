@@ -1,0 +1,217 @@
+id_contenuto,id_puntata,tipologia,UE,id_ospite,keyword,start,end,sentiment
+C1,R3-20190305,Dibattito,FALSE,"O63, O57","conflitto politico e governativo, sicurezza e giustizia, legittima difesa, cittadinanza",00:42:00,01:16:04,
+C2,R3-20190305,Intervista singola,TRUE,O11,intenzioni voto ue,01:16:05,01:17:28,Neutro
+C3,R3-20190305,Dibattito,FALSE,"O64, O42","sicurezza e giustizia, legittima difesa, infrastrutture, TAV, occupazioni",01:17:28,01:43:08,
+C4,R3-20190305,Intervista singola,FALSE,O164,immigrazione,01:43:10,01:49:30,
+C5,R3-20190305,Dibattito,FALSE,"O12, O61, O65, O30","infrastrutture, TAV, sicurezza e giustizia, legittima difesa, economia e finanza, lavoro e disoccupazione",01:49:31,02:30:02,
+C6,R3-20190312,Dibattito,FALSE,"O44, O69","infrastrutture, TAV, clima e ambiente",00:29:20,00:43:21,
+C7,R3-20190312,Dibattito,FALSE,"O66, O68, O69, O67","infrastrutture, TAV, clima e ambiente, conflitto politico e governativo",00:50:15,01:20:00,
+C8,R3-20190312,Dibattito,TRUE,"O66, O68, O69, O67",elezioni ue e stabilità governativa,01:18:16,01:19:00,Neutro
+C9,R3-20190312,Dibattito,FALSE,"O16, O31","sicurezza e giustizia, occupazioni, clima e ambiente, infrastrutture, TAV, sanità",01:22:46,01:50:55,
+C10,R3-20190312,Intervista singola,TRUE,O11,intenzioni voto ue,01:51:40,01:53:08,Neutro
+C11,R3-20190312,Dibattito,FALSE,"O23, O71, O72, O51","sicurezza e giustizia, legittima difesa, occupazioni, immigrazione",01:53:10,02:29:40,
+C12,R3-20190319,Intervista singola,FALSE,O44,immigrazione,00:05:00,00:27:10,
+C13,R3-20190319,Intervista singola,FALSE,O62,"immigrazione, conflitto politico e governativo",00:48:55,01:18:19,
+C14,R3-20190319,Intervista singola,TRUE,O62,"schieramenti PE, proposte ue",01:00:19,01:05:26,Positivo
+C15,R3-20190319,Dibattito,FALSE,"O40, O63, O30","immigrazione, diritti umani",01:19:56,01:57:30,
+C16,R3-20190319,Dibattito,TRUE,O40,politica di immigrazione comunitaria,01:51:21,01:52:58,Negativo
+C17,R3-20190319,Dibattito,FALSE,"O14, O74, O75, O73, O9","sicurezza e giustizia, economia e finanza, lavoro e disoccupazione, occupazioni, conflitto politico e governativo",01:57:31,02:34:37,
+C18,R3-20190319,Dibattito,TRUE,"O14, O74, O75, O73, O9",elezioni ue e stabilità governativa,02:17:20,02:18:31,Neutro
+C19,R3-20190326,Intervista singola,FALSE,O44,"conflitto politico e governativo, razzismo, cittadinanza",00:05:00,00:27:43,
+C20,R3-20190326,Intervista singola,FALSE,O58,"conflitto politico e governativo, cittadinanza, scandali, clima e ambiente",00:41:54,01:11:52,
+C21,R3-20190326,Intervista singola,FALSE,O76,immigrazione,01:13:20,01:21:54,
+C22,R3-20190326,Dibattito,FALSE,"O77, O9, O23",immigrazione,01:23:43,01:50:14,
+C23,R3-20190326,Dibattito,TRUE,"O77, O9, O23",politica di immigrazione comunitaria,01:47:21,01:50:14,Negativo
+C24,R3-20190326,Intervista singola,FALSE,O78,"razzismo, diritti civili, immigrazione, cittadinanza",01:50:52,02:08:18,
+C25,R3-20190326,Dibattito,FALSE,"O80, O9, O12, O79","economia e finanza, tasse, lavoro e disoccupazione",02:08:20,02:31:59,
+C26,R3-20190402,Intervista singola,FALSE,O44,"diritti civili, famiglia, economia e finanza, clima e ambiente",00:13:41,00:43:10,
+C27,R3-20190402,Dibattito,FALSE,"O82, O81, O9, O30","libertà, diritti civili, famiglia",00:43:10,01:19:30,
+C28,R3-20190402,Dibattito,FALSE,"O82, O67, O84, O9","occupazioni, sicurezza e giustizia, legittima difesa",01:19:32,01:54:08,
+C29,R3-20190402,Dibattito,TRUE,O67,normative ue,01:26:00,01:27:53,Negativo
+C30,R3-20190402,Dibattito,FALSE,"O85, O12, O86, O61","economia e finanza, lavoro e disoccupazione, pensioni",01:57:00,02:30:11,
+C31,R3-20190402,Dibattito,TRUE,O12,"politica economica e commerciale ue, fondi ue",01:57:28,01:58:32,Negativo
+C32,R3-20190402,Dibattito,TRUE,O12,,01:59:47,02:00:24,Negativo
+C33,R3-20190402,Dibattito,TRUE,O12,,02:03:41,02:04:41,Negativo
+C34,R3-20190402,Dibattito,TRUE,O12,,02:10:20,02:11:28,Negativo
+C35,R3-20190402,Dibattito,TRUE,O12,,02:12:03,02:13:38,Negativo
+C36,R3-20190402,Dibattito,TRUE,O85,,01:58:32,01:59:28,Neutro
+C37,R3-20190402,Dibattito,TRUE,O85,,02:16:33,02:18:35,Positivo
+C38,R3-20190402,Dibattito,TRUE,O61,,02:02:17,02:03:41,Positivo
+C39,R3-20190402,Dibattito,TRUE,O86,,02:14:51,02:16:00,Positivo
+C40,R3-20190409,Intervista singola,FALSE,O44,"conflitto politico e governativo, economia e finanza, occupazioni, lavoro e disoccupazione, razzismo, diritti civili",00:05:13,00:39:47,
+C41,R3-20190409,Intervista singola,FALSE,O87,"conflitto politico e governativo, sicurezza e giustizia, occupazioni, clima e ambiente, infrastrutture, TAV, diritti civili, famiglia",00:39:59,01:05:32,
+C42,R3-20190409,Dibattito,FALSE,"O89, O88, O16","immigrazione, occupazioni, sicurezza e giustizia",01:08:20,01:54:59,
+C43,R3-20190409,Dibattito,TRUE,O88,politica di immigrazione comunitaria,01:26:00,01:27:43,Positivo
+C44,R3-20190409,Dibattito,FALSE,"O64, O23, O53, O90",economia e finanza,01:55:00,02:31:48,
+C45,R3-20190416,Dibattito,FALSE,"O7, O8, O9","conflitto politico e governativo, immigrazione",00:42:20,01:23:26,
+C46,R3-20190416,Dibattito,TRUE,O7,politica di immigrazione comunitaria,00:42:20,00:45:17,Negativo
+C47,R3-20190416,Dibattito,TRUE,O7,"politica di immigrazione comunitaria, confronto paesi ue",01:09:24,01:12:40,Negativo
+C48,R3-20190416,Dibattito,TRUE,O8,"politica di immigrazione comunitaria, confronto paesi ue",01:09:24,01:12:40,Positivo
+C49,R3-20190416,Intervista singola,TRUE,O11,intenzioni voto ue,01:13:00,01:15:00,Neutro
+C50,R3-20190416,Intervista singola,FALSE,O10,"immigrazione, conflitto politico e governativo",01:30:26,01:37:21,
+C51,R3-20190416,Intervista singola,TRUE,O10,"politica di immigrazione comunitaria, PESC",01:33:16,01:37:21,Positivo
+C52,R3-20190416,Dibattito,FALSE,"O12, O13, O14, O23, O15","economia e finanza, tasse",01:31:54,02:25:08,
+C53,R3-20190416,Dibattito,TRUE,O13,"politica economica e commerciale ue, fondi ue, confronto paesi ue",02:21:15,02:25:08,Positivo
+C54,R3-20190430,Intervista singola,FALSE,O165,"economia e finanza, conflitto politico e governativo, scandali, infrastrutture, TAV ",00:14:26,00:34:31,
+C55,R3-20190430,Intervista singola,FALSE,O44,"scandali, conflitto politico e governativo, diritti civili",00:35:17,00:52:20,
+C56,R3-20190430,Intervista singola,FALSE,O43,"lavoro e disoccupazione, economia e finanza, tasse, conflitto politico e governativo",00:52:26,01:16:46,
+C57,R3-20190430,Intervista singola,TRUE,O43,normative ue,00:57:08,00:58:45,Negativo
+C58,R3-20190430,Dibattito,FALSE,"O42, O45, O46","immigrazione, diritti umani",01:17:00,01:45:36,
+C59,R3-20190430,Dibattito,TRUE,"O45, O42",politica di immigrazione comunitaria,01:25:59,01:28:00,Negativo
+C60,R3-20190430,Intervista singola,FALSE,O47,conflitto politico e governativo,01:45:40,02:01:54,
+C61,R3-20190430,Intervista singola,TRUE,O47,schieramenti PE,01:52:38,02:01:54,Negativo
+C62,R3-20190430,Dibattito,FALSE,"O49, O23, O48, O50, O51","immigrazione, lavoro e disoccupazione, economia e finanza, sicurezza e giustizia",02:01:55,02:28:48,
+C63,R3-20190430,Intervista singola,TRUE,O11,intenzioni voto ue,02:28:50,02:29:55,Neutro
+C64,R3-20190507,Intervista singola,FALSE,O44,"clima e ambiente, sicurezza e giustizia, legittima difesa, fascismo, scuola, scandali",00:05:01,00:24:58,
+C65,R3-20190507,Intervista singola,FALSE,O173,"sicurezza e giustizia, cittadinanza",00:25:00,00:32:50,
+C66,R3-20190507,Intervista singola,TRUE,O44,clima e ambiente,00:33:58,00:34:30,Negativo
+C67,R3-20190507,Intervista singola,FALSE,O6,"economia e finanza, lavoro e disoccupazione, occupazioni, ",00:41:05,01:16:55,
+C68,R3-20190507,Intervista singola,TRUE,O6,"elezioni ue e stabilità governativa,  confronto paesi ue",01:13:46,01:16:55,Negativo
+C69,R3-20190507,Dibattito,FALSE,"O54, O52, O53","economia e finanza, sicurezza e giustizia, immigrazione, scandali",01:16:56,01:51:50,
+C70,R3-20190507,Dibattito,TRUE,O52,"politica di immigrazione comunitaria, schieramenti PE, confronto paesi ue",01:30:08,01:32:44,Positivo
+C71,R3-20190507,Dibattito,FALSE,"O56, O9, O4, O55, O1","sicurezza e giustizia, immigrazione, occupazioni",01:52:00,02:33:19,
+C72,R3-20190514,Intervista singola,FALSE,O25,"conflitto politico e governativo, economia e finanza, tasse, immigrazione, scandali",00:51:28,01:11:10,
+C73,R3-20190514,Intervista singola,TRUE,O25,"politica di immigrazione comunitaria, schieramenti PE, PESC",01:05:47,01:11:10,Negativo
+C74,R3-20190514,Dibattito,FALSE,O57,"conflitto politico e governativo, economia e finanza, immigrazione, lavoro e disoccupazione, droga, occupazioni",01:11:55,01:46:05,
+C75,R3-20190514,Dibattito,TRUE,O57,"schieramenti PE, politica di immigrazione comunitaria",01:18:05,01:18:44,Positivo
+C76,R3-20190514,Dibattito,TRUE,O57,,01:19:01,01:19:15,Positivo
+C77,R3-20190514,Dibattito,TRUE,O57,,01:21:27,01:26:50,Positivo
+C78,R3-20190514,Dibattito,FALSE,O12,"conflitto politico e governativo, economia e finanza, tasse, immigrazione, lavoro e disoccupazione, droga, occupazioni",01:11:55,01:46:05,
+C79,R3-20190514,Dibattito,TRUE,O12,"istituzioni ue e democrazia, politica di immigrazione comunitaria",01:17:01,01:18:03,Negativo
+C80,R3-20190514,Dibattito,TRUE,O12,,01:18:05,01:18:44,Negativo
+C81,R3-20190514,Dibattito,TRUE,O12,,01:22:17,01:23:15,Negativo
+C82,R3-20190514,Dibattito,TRUE,O12,,01:24:37,01:27:12,Negativo
+C83,R3-20190514,Dibattito,FALSE,"O59, O58, O30, O9","conflitto politico e governativo, lavoro e disoccupazione, scandali, occupazioni, sicurezza e giustizia, immigrazione",01:46:59,02:27:07,
+C84,R3-20190514,Dibattito,TRUE,"O59, O58, O30, O9",elezioni ue e stabilità governativa,02:02:30,02:09:55,Neutro
+C85,R3-20190521,Intervista singola,FALSE,O44,"intenzioni voto ue, clima e ambiente",00:05:08,00:21:40,
+C86,R3-20190521,Intervista singola,TRUE,O44,"intenzioni voto ue, schieramenti PE",00:05:08,00:11:00,Neutro
+C87,R3-20190521,Intervista singola,FALSE,O40,"conflitto politico e governativo, economia e finanza, immigrazione",00:21:42,00:41:25,
+C88,R3-20190521,Intervista singola,TRUE,O40,"valori europei, politica di immigrazione comunitaria",00:32:39,00:37:00,Positivo
+C89,R3-20190521,Dibattito,FALSE,"O21, O9, O60","sicurezza e giustizia, immigrazione, occupazioni, scandali, conflitto politico e governativo",00:41:30,01:24:01,
+C90,R3-20190521,Dibattito,TRUE,O21,"politica di immigrazione comunitaria, elezioni ue e stabilità governativa, normative ue, politica economica e commerciale ue",01:05:40,01:13:50,Negativo
+C91,R3-20190521,Dibattito,FALSE,"O62, O8, O61","economia e finanza, conflitto politico e governativo, occupazioni, scuola, libertà",01:24:30,01:49:50,
+C92,R3-20190521,Dibattito,TRUE,O61,elezioni ue e stabilità governativa,01:32:01,01:33:59,Neutro
+C93,R3-20190521,Servizio,TRUE,O174,"schieramenti PE, diritti civili",01:50:00,01:50:43,Positivo
+C94,R3-20190521,Servizio,TRUE,O104,"schieramenti PE, valori europei, famiglia",01:50:44,01:51:02,Positivo
+C95,R3-20190521,Servizio,TRUE,,"verdi, clima e ambiente, schieramenti PE",01:51:03,01:51:33,Positivo
+C96,R3-20190521,Servizio,TRUE,O175,schieramenti PE,01:51:33,01:51:57,Positivo
+C97,R3-20190521,Servizio,TRUE,O176,"schieramenti PE, diritti animali",01:51:58,01:52:23,Positivo
+C98,R3-20190521,Servizio,TRUE,O39,politica economica e commerciale ue,01:52:24,01:52:45,Negativo
+C99,R3-20190521,Servizio,TRUE,O177,"schieramenti PE, politica economica e commerciale ue",01:52:46,01:53:11,Negativo
+C100,R3-20190521,Intervista singola,FALSE,O7,"economia e finanza, tasse, conflitto politico e governativo",01:53:59,02:08:24,
+C101,R3-20190521,Intervista singola,TRUE,O7,"elezioni ue e stabilità governativa, schieramenti PE, normative ue, confronto paesi ue, politica di immigrazione comunitaria",01:55:56,02:05:16,Negativo
+C102,R3-20190521,Dibattito,FALSE,"O71, O58, O70","economia e finanza, tasse, conflitto politico e governativo",02:08:28,02:33:37,
+C103,R3-20190521,Dibattito,TRUE,O71,politica economica e commerciale ue,02:15:56,02:17:20,Positivo
+C104,M4-20190307,Intervista singola,FALSE,O21,"economia e finanza, immigrazione, sicurezza e giustizia, infrastrutture, TAV, lavoro e disoccupazione, occupazioni",00:04:50,01:01:32,
+C105,M4-20190307,Intervista singola,TRUE,O21,intenzioni voto ue,00:50:32,00:55:20,Negativo
+C106,M4-20190307,Intervista singola,FALSE,O91,"economia e finanza, tasse, lavoro e disoccupazione",01:02:23,01:09:19,
+C107,M4-20190307,Dibattito,FALSE,"O58, O92, O5","infrastrutture, TAV, occupazioni, conflitto politico e governativo, lavoro e disoccupazione",01:10:11,01:50:00,
+C108,M4-20190307,Dibattito,FALSE,"O37, O5, O93, O183","sicurezza e giustizia, prostituzione",01:51:47,02:33:14,
+C109,M4-20190307,Dibattito,FALSE,"O94, O95, O96, O97, O98","economia e finanza, clima e ambiente",02:33:20,02:59:04,
+C110,M4-20190307,Dibattito,TRUE,O98,normative ue,02:41:38,02:43:13,Positivo
+C111,M4-20190314,Intervista singola,FALSE,O25,"conflitto politico e governativo, lavoro e disoccupazione, economia e finanza, tasse, scandali, occupazioni, infrastrutture, TAV",00:06:48,00:35:40,
+C112,M4-20190314,Intervista singola,TRUE,O25,PESC,00:34:31,00:35:40,Positivo
+C113,M4-20190314,Dibattito,FALSE,"O99, O23, O100, O18","pensioni, lavoro e disoccupazione",00:36:11,01:01:50,
+C114,M4-20190314,Dibattito,FALSE,"O101, O102, O23, O166","economia e finanza, prostituzione, sicurezza e giustizia",01:01:54,01:25:18,
+C115,M4-20190314,Dibattito,TRUE,O166,normative ue,01:11:55,01:13:20,Positivo
+C116,M4-20190314,Dibattito,TRUE,O101,confronto paesi ue,01:21:51,01:22:08,Negativo
+C117,M4-20190314,Dibattito,FALSE,"O5, O17, O103, O104","scandali, sicurezza e giustizia",01:25:20,01:56:04,
+C118,M4-20190314,Dibattito,FALSE,"O104, O103, O106, O107, O105","scandali, sicurezza e giustizia",01:56:07,02:55:05,
+C119,M4-20190321,Intervista singola,FALSE,O6,"sicurezza e giustizia, immigrazione, cittadinanza, lavoro e disoccupazione, famiglia, conflitto politico e governativo",00:02:54,00:42:40,
+C120,M4-20190321,Intervista singola,FALSE,O21,"sicurezza e giustizia, razzismo, cittadinanza, famiglia, immigrazione",00:42:45,01:04:24,
+C121,M4-20190321,Dibattito,FALSE,"O5, O109, O108, O112, O111, O110","sicurezza e giustizia, immigrazione, razzismo",01:04:25,01:48:18,
+C122,M4-20190321,Dibattito,FALSE,"O116, O113, O104, O115, O114, O110, O36","diritti civili, famiglia",01:48:40,02:53:19,
+C123,M4-20190328,Intervista singola,FALSE,O7,"conflitto politico e governativo, cittadinanza, sicurezza e giustizia, legittima difesa, famiglia, diritti civili",00:01:16,00:18:30,
+C124,M4-20190328,Intervista singola,TRUE,O7,proposte ue,00:08:50,00:10:24,Positivo
+C125,M4-20190328,Dibattito,FALSE,"O23, O117, O119, O120, O118, O5","sicurezza e giustizia, legittima difesa",00:18:34,01:38:45,
+C126,M4-20190328,Dibattito,FALSE,"O124, O125, O185, O127, O18, O115","libertà, diritti civili, famiglia",01:57:00,02:41:18,
+C127,M4-20190404,Intervista singola,FALSE,O43,"lavoro e disoccupazione, economia e finanza",00:07:20,00:20:53,
+C128,M4-20190404,Dibattito,FALSE,"O167, O143, O30","economia e finanza, tasse, lavoro e disoccupazione, ",00:21:00,00:55:00,
+C129,M4-20190404,Dibattito,FALSE,"O23, O3, O115, O130, O128, O129",sicurezza e giustizia,00:55:03,01:57:35,
+C130,M4-20190404,Dibattito,FALSE,"O23, O5, O132, O131, O133, O75, O129","razzismo, occupazioni",01:57:41,02:55:29,
+C131,M4-20190404,Dibattito,TRUE,"O23, O5, O132, O131, O133, O75, O129",fondi ue,02:40:03,02:42:00,Positivo
+C132,M4-20190411,Dibattito,FALSE,"O5, O134, O135, O136, O31, O137, O138, O41","razzismo, immigrazione, occupazioni, sicurezza e giustizia ",00:10:00,01:05:49,
+C133,M4-20190411,Dibattito,FALSE,"O30, O31, O138, O145","lavoro e disoccupazione, famiglia",01:07:31,01:30:26,
+C134,M4-20190411,Dibattito,FALSE,"O139, O121, O111, O144, O37, O146, O30","occupazioni, razzismo, fascismo",01:30:38,02:10:39,
+C135,M4-20190411,Dibattito,FALSE,"O17, O147, O184, O148, O115, O149",alimentazione,02:12:11,02:50:08,
+C136,M4-20190418,Intervista singola,FALSE,O6,"conflitto politico e governativo, sanità, scandali, economia e finanza",00:01:20,00:31:40,
+C137,M4-20190418,Dibattito,FALSE,"O1, O4, O3, O2","economia e finanza, tasse ",00:31:32,00:52:00,
+C138,M4-20190418,Dibattito,TRUE,O4,politica economica e commerciale ue,00:46:30,00:50:54,Negativo
+C139,M4-20190418,Dibattito,FALSE,"O1, O3, O117, O140, O115, O141","sicurezza e giustizia, occupazioni",00:52:02,01:35:39,
+C140,M4-20190418,Dibattito,FALSE,"O17, O186, O143, O150","pensioni, economia e finanza, tasse",01:35:40,02:05:00,
+C141,M4-20190418,Dibattito,FALSE,"O151, O66, O17, O143, O142","pensioni, economia e finanza, tasse",02:05:00,02:40:50,
+C142,M4-20190502,Dibattito,FALSE,"O17, O16, O18, O19, O5, O152, O153","sicurezza e giustizia, legittima difesa, immigrazione",00:04:29,00:46:10,
+C143,M4-20190502,Intervista singola,FALSE,O20,"conflitto politico e governativo, economia e finanza, lavoro e disoccupazione, tasse, scandali",00:46:20,01:06:01,
+C144,M4-20190502,Intervista singola,TRUE,O20,"politica economica e commerciale ue, normative ue, fondi ue",00:46:20,00:53:39,Positivo
+C145,M4-20190502,Dibattito,FALSE,"O34, O37, O30, O154, O155, O115","sicurezza e giustizia, fascismo",01:06:35,01:41:30,
+C146,M4-20190502,Dibattito,FALSE,"O121, O111, O30, O156, O146","sicurezza e giustizia, fascismo, democrazia",01:42:16,02:43:00,
+C147,M4-20190509,Intervista singola,FALSE,O6,"occupazioni, diritti civili, lavoro e disoccupazione, droga",00:04:58,00:19:14,
+C148,M4-20190509,Intervista singola,TRUE,O6,"normative ue, proposte ue, intenzioni voto ue",00:14:53,00:17:17,Positivo
+C149,M4-20190509,Dibattito,FALSE,"O23, O5, O115, O157, O127","occupazioni, sicurezza e giustizia",00:19:27,00:41:50,
+C150,M4-20190509,Intervista singola,FALSE,O21,"sicurezza e giustizia, occupazioni, droga, economia e finanza, tasse, fascismo, scandali",00:43:44,01:02:53,
+C151,M4-20190509,Intervista singola,TRUE,O21,"normative ue, politica economica e commerciale ue, proposte ue",00:54:00,00:56:48,Negativo
+C152,M4-20190509,Dibattito,FALSE,"O23, O58, O15, O157, O158, O127","economia e finanza, tasse, scandali",01:03:00,01:37:15,
+C153,M4-20190509,Dibattito,TRUE,"O23, O58, O15, O157, O158, O127","normative ue, confronto paesi ue",01:22:23,01:24:30,Negativo
+C154,M4-20190509,Dibattito,FALSE,"O17, O36, O22, O23, O24, O161, O159, O160","sicurezza e giustizia, immigrazione, droga, legittima difesa, fascismo",01:39:57,02:49:29,
+C155,M4-20190509,Dibattito,TRUE,"O17, O36, O22, O23, O24, O161, O159, O160","normative ue, politica di immigrazione comunitaria",02:16:25,02:20:00,Negativo
+C156,M4-20190516,Intervista singola,FALSE,O6,"occupazioni, sicurezza e giustizia, economia e finanza, lavoro e disoccupazione, tasse",00:05:47,00:30:03,
+C157,M4-20190516,Intervista singola,TRUE,O6,normative ue,00:10:05,00:11:13,Negativo
+C158,M4-20190516,Intervista singola,FALSE,O7,"occupazioni, sicurezza e giustizia, economia e finanza, conflitto politico e governativo",00:30:08,00:47:24,
+C159,M4-20190516,Intervista singola,TRUE,O7,"politica economica e commerciale ue, normative ue",00:45:01,00:47:24,Negativo
+C160,M4-20190516,Intervista singola,TRUE,O7,"politica economica e commerciale ue, normative ue",00:37:03,00:41:25,Negativo
+C161,M4-20190516,Intervista singola,FALSE,O25,"pensioni, politica estera, conflitto politico e governativo, tasse, libertà, economia e finanza, immigrazione",00:50:17,01:11:58,
+C162,M4-20190516,Intervista singola,TRUE,O25,"PESC, politica di immigrazione comunitaria",00:50:17,00:55:12,Positivo
+C163,M4-20190516,Intervista singola,TRUE,O25,"PESC, politica di immigrazione comunitaria, schieramenti PE, elezioni ue e stabilità governativa, politica economica e commerciale ue",01:02:38,01:09:02,Positivo
+C164,M4-20190516,Dibattito,FALSE,"O23, O5, O26, O27, O28, O29","occupazioni, sicurezza e giustizia",01:11:58,01:52:23,
+C165,M4-20190516,Intervista singola,FALSE,O21,"conflitto politico e governativo, sicurezza e giustizia, immigrazione, economia e finanza, tasse, scandali",01:52:24,02:11:17,
+C166,M4-20190516,Intervista singola,TRUE,O21,"politica di immigrazione comunitaria, politica economica e commerciale ue",01:58:03,01:59:11,Negativo
+C167,M4-20190516,Dibattito,FALSE,"O17, O162, O3, O163, O143, O116","occupazioni, case popolari",02:11:20,02:50:40,
+C168,M4-20190516,Servizio,TRUE,O182,"schieramenti PE, proposte ue",02:50:40,02:54:27,Positivo
+C169,M4-20190523,Dibattito,FALSE,"O30, O5, O4, O31, O32","conflitto politico e governativo, razzismo",00:35:20,00:49:02,
+C170,M4-20190523,Servizio,TRUE,O178,cittadini e ue,00:49:13,00:51:15,Neutro
+C171,M4-20190523,Intervista singola,FALSE,O25,"politica estera, conflitto politico e governativo, ",00:51:16,01:18:09,
+C172,M4-20190523,Intervista singola,TRUE,O25,"elezioni ue e stabilità governativa, PESC, schieramenti PE, politica di immigrazione comunitaria",00:51:16,00:57:24,Positivo
+C173,M4-20190523,Intervista singola,TRUE,O25,"elezioni ue e stabilità governativa, PESC, schieramenti PE, politica di immigrazione comunitaria",01:05:44,01:12:31,Positivo
+C174,M4-20190523,Intervista singola,FALSE,O33,"occupazioni, conflitto politico e governativo, scandali, economia e finanza, tasse, immigrazione, scuola",01:20:40,01:40:00,
+C175,M4-20190523,Intervista singola,TRUE,O33,"normative ue, schieramenti PE, proposte ue",01:20:40,01:22:45,Positivo
+C176,M4-20190523,Servizio,TRUE,,normative ue,01:18:30,01:20:40,Negativo
+C177,M4-20190523,Dibattito,FALSE,"O34, O36, O17, O38, O39, O37, O35",economia e finanza,01:40:01,02:20:40,
+C178,M4-20190523,Dibattito,TRUE,O34,"normative ue, politica economica e commerciale ue",01:46:00,01:50:11,Negativo
+C179,M4-20190523,Dibattito,TRUE,O34,,02:01:45,02:06:54,Negativo
+C180,M4-20190523,Dibattito,TRUE,O39,diritti umani,02:06:55,02:10:08,Negativo
+C181,M4-20190523,Dibattito,TRUE,O34,,02:10:08,02:20:40,Negativo
+C182,M4-20190523,Dibattito,TRUE,O34,politica di immigrazione comunitaria,02:30:40,02:31:45,Negativo
+C183,M4-20190523,Dibattito,FALSE,"O1, O36, O187, O17, O37, O34","sicurezza e giustizia, immigrazione",02:20:44,02:45:23,
+C184,M4-20190523,Dibattito,TRUE,"O1, O34","confronto paesi ue, politica di immigrazione comunitaria",02:30:40,02:31:45,Negativo
+C185,M4-20190523,Servizio,TRUE,,come si vota per il PE,02:49:27,02:50:48,Neutro
+C186,M4-20190523,Servizio,TRUE,O55,schieramenti PE,02:50:48,02:51:38,Positivo
+C187,M4-20190523,Servizio,TRUE,O179,"schieramenti PE, normative ue",02:51:38,02:52:04,Positivo
+C188,M4-20190523,Servizio,TRUE,O180,normative ue,02:52:05,02:52:24,Positivo
+C189,M4-20190523,Servizio,TRUE,O181,schieramenti PE,02:52:25,02:52:50,Positivo
+C190,M4-20190523,Servizio,TRUE,O39,politica economica e commerciale ue,02:52:51,02:53:00,Negativo
+C191,M4-20190523,Servizio,TRUE,O155,politica economica e commerciale ue,02:53:01,02:53:56,Negativo
+C192,R3-20190528,Intervista singola,TRUE,O44,risultati europee,00:04:00,00:08:00,Neutro
+C193,R3-20190528,Servizio,TRUE,,risultati europee,00:09:20,00:13:10,Neutro
+C194,R3-20190528,Intervista singola,TRUE,O44,elezioni ue e stabilità governativa,00:13:12,00:15:30,Neutro
+C195,R3-20190528,Intervista singola,TRUE,O44,risultati europee,00:15:35,00:27:22,Neutro
+C196,R3-20190528,Intervista singola,FALSE,O44,"lavoro e disoccupazione, sicurezza e giustizia, clima e ambiente, conflitto politico e governativo",00:27:22,00:37:59,
+C197,R3-20190528,Intervista singola,FALSE,O7,conflitto politico e governativo,00:38:20,00:48:56,
+C198,R3-20190528,Intervista singola,TRUE,O7,"risultati europee, schieramenti PE, politica di immigrazione comunitaria",00:48:56,00:50:54,Neutro
+C199,R3-20190528,Dibattito,TRUE,"O53, O47","risultati europee, istituzioni ue e democrazia",00:51:12,00:58:40,Positivo
+C200,R3-20190528,Dibattito,FALSE,"O53, O47",conflitto politico e governativo,00:58:41,01:00:20,
+C201,R3-20190528,Dibattito,TRUE,"O53, O47",crisi economica ue,01:00:40,01:01:01,Negativo
+C202,R3-20190528,Dibattito,TRUE,"O53, O47","risultati europee, elezioni ue e stabilità governativa, brexit, istituzioni ue e democrazia",01:00:40,01:18:30,Positivo
+C203,R3-20190528,Dibattito,TRUE,"O9, O30, O70","risultati europee, elezioni ue e stabilità governativa, brexit, politica economica e commerciale ue, fondi ue",01:23:15,01:51:23,Neutro
+C204,R3-20190528,Servizio,TRUE,,brexit,01:18:31,01:22:00,Positivo
+C205,R3-20190528,Dibattito,FALSE,"O16, O65, O188, O189","conflitto politico e governativo, tasse, infrastrutture, TAV, immigrazione, sicurezza e giustizia",01:57:40,02:29:25,
+C206,M4-20190530,Servizio,FALSE,,Elettori,00:05:30,00:09:17,
+C207,M4-20190530,Intervista singola,FALSE,O21,"conflitto politico e governativo, tasse",00:09:18,00:23:44,
+C208,M4-20190530,Intervista singola,TRUE,O21,"schieramenti PE, risultati europee, istituzioni ue e democrazia, confronto paesi ue",00:23:50,00:28:47,Positivo
+C209,M4-20190530,Intervista singola,FALSE,O21,"TAV, infrastrutture, economia e finanza, conflitto politico e governativo, droga, immigrazione, sicurezza e giustizia",00:28:48,00:51:20,
+C210,M4-20190530,Intervista singola,TRUE,O21,fondi ue,00:32:34,00:33:30,Positivo
+C211,M4-20190530,Servizio,FALSE,,movimento 5 stelle,00:51:36,00:54:40,
+C212,M4-20190530,Dibattito,TRUE,"O30, O109, O12, O13, O168, O138, O169","risultati europee, schieramenti PE",01:24:29,01:25:05,Neutro
+C213,M4-20190530,Dibattito,TRUE,"O30, O109, O12, O13, O168, O138, O169","risultati europee, schieramenti PE",01:30:00,01:33:07,Neutro
+C214,M4-20190530,Dibattito,FALSE,"O30, O109, O12, O13, O168, O138, O169","conflitto politico e governativo, lavoro e disoccupazione",00:53:43,01:56:27,
+C215,M4-20190530,Dibattito,TRUE,"O17, O170, O129, O30, O171, O156, O172","politica di immigrazione comunitaria, confronto paesi ue, risultati europee",02:04:30,02:05:00,Neutro
+C216,M4-20190530,Dibattito,FALSE,"O17, O170, O129, O30, O171, O156, O172","immigrazione, sicurezza e giustizia, lavoro e disoccupazione, razzismo",01:57:06,02:59:24,
