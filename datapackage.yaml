@@ -2,9 +2,9 @@
 # metadata: data/contenuti.csv data/ospiti.csv data/puntate.csv data/trasmissioni.csv
 # --------
 
-name: temp
-title: TBD
-description: Dataset allegato alla tesi triennale di Chiara Adornetto
+name: data-tv-italiana-ue
+title: Dati relativi alla tesi "Comunicare l'Unione Europea"
+description: Analisi della copertura delle elezioni europee del 2019 nella televisione italiana. Dataset allegato alla tesi triennale di Chiara Adornetto
 temporal:
   start: '2019-03-05'
   end: '2019-05-30'
