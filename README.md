@@ -66,10 +66,10 @@ cognome | Cognome | String | Senaldi
 titolo | Professione o attività svolta | String | Giornalista
 appartenenza | Testa giornalistica o Partito politico di appartenenza | String | Libero
 
-### 📄 [interventi.csv](data/interventi.csv)
+### 📄 [contenuti.csv](data/contenuti.csv)
 
 - Path: `data/`
-- URL: https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/interventi.csv
+- URL: https://raw.githubusercontent.com/chiaraadornetto/dati-tv-elezioni-ue-2019/main/data/contenuti.csv
 - Delimiter: `,`
 - Encoding: `UTF-8`
 
