@@ -75,7 +75,7 @@ appartenenza | Testa giornalistica o Partito politico di appartenenza | String |
 
 Field | Description | Type | Example
 -- | -- | -- | --
-id_contenuto | Codice identificativo del contenuto trasmesso | String | I52
+id_contenuto | Codice identificativo del contenuto trasmesso | String | C52
 id_puntata | ID della puntata | String | R3-20190305
 tipologia | Tipologia del contenuto (`Dibattito`,`Intervista singola`,`Servizio`) | String | Intervista singola
 UE | Indicatore degli interventi legati all'Unione Europea | Boolean | TRUE
