@@ -13,12 +13,5 @@
         }
     ], 
     "keywords": ["UE", "Social sciences", "Elections"],
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.6743793", 
-            "relation": "isNewVersionOf"
-        }
-    ]
+    "access_right": "open"
 }
