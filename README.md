@@ -14,7 +14,8 @@ root
 │   ├── 📄trasmissioni.csv
 │   ├── 📄puntate.csv
 │   ├── 📄ospiti.csv
-│   └── 📄interventi.csv
+│   └── 📄contenuti.csv
+├── 📄.zenodo.json
 ├── 📄datapackage.yaml
 ├── 📄LICENSE
 └── 📄README.md
